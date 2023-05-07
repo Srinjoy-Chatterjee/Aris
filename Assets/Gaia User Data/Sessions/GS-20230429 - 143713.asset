@@ -1,0 +1,546 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e251860fcd970734c9f14ebd98a146c3, type: 3}
+  m_Name: GS-20230429 - 143713
+  m_EditorClassIdentifier: 
+  m_name: Session 20230429-143713
+  m_description: 'Rocking out at Creativity Central!
+
+
+    If you like Gaia please
+    consider rating it :)'
+  m_previewImage: {fileID: 0}
+  m_dateCreated: 29-04-2023 14:37:13
+  m_terrainWidth: 128
+  m_terrainDepth: 128
+  m_terrainHeight: 128
+  m_seaLevel: 3.125
+  m_spawnDensity: 0.8
+  m_isLocked: 0
+  m_previewImageBytes: 
+  m_previewImageWidth: 0
+  m_previewImageHeight: 0
+  m_operations:
+  - m_description: Clear World
+    m_operationType: 10
+    m_isActive: 1
+    m_affectedTerrainNames: []
+    m_operationDateTime: 29-04-2023 14:37:49
+    scriptableObjectAssetGUID: 
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Creating World: 9 x 9 tiles, tile size: 128'
+    m_operationType: 0
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230429 - 143752
+    - Terrain_0_1-20230429 - 143752
+    - Terrain_0_2-20230429 - 143752
+    - Terrain_0_3-20230429 - 143752
+    - Terrain_0_4-20230429 - 143752
+    - Terrain_0_5-20230429 - 143752
+    - Terrain_0_6-20230429 - 143752
+    - Terrain_0_7-20230429 - 143752
+    - Terrain_0_8-20230429 - 143752
+    - Terrain_1_0-20230429 - 143752
+    - Terrain_1_1-20230429 - 143752
+    - Terrain_1_2-20230429 - 143752
+    - Terrain_1_3-20230429 - 143752
+    - Terrain_1_4-20230429 - 143752
+    - Terrain_1_5-20230429 - 143752
+    - Terrain_1_6-20230429 - 143752
+    - Terrain_1_7-20230429 - 143752
+    - Terrain_1_8-20230429 - 143752
+    - Terrain_2_0-20230429 - 143752
+    - Terrain_2_1-20230429 - 143752
+    - Terrain_2_2-20230429 - 143752
+    - Terrain_2_3-20230429 - 143752
+    - Terrain_2_4-20230429 - 143752
+    - Terrain_2_5-20230429 - 143752
+    - Terrain_2_6-20230429 - 143752
+    - Terrain_2_7-20230429 - 143752
+    - Terrain_2_8-20230429 - 143752
+    - Terrain_3_0-20230429 - 143752
+    - Terrain_3_1-20230429 - 143752
+    - Terrain_3_2-20230429 - 143752
+    - Terrain_3_3-20230429 - 143752
+    - Terrain_3_4-20230429 - 143752
+    - Terrain_3_5-20230429 - 143752
+    - Terrain_3_6-20230429 - 143752
+    - Terrain_3_7-20230429 - 143752
+    - Terrain_3_8-20230429 - 143752
+    - Terrain_4_0-20230429 - 143752
+    - Terrain_4_1-20230429 - 143752
+    - Terrain_4_2-20230429 - 143752
+    - Terrain_4_3-20230429 - 143752
+    - Terrain_4_4-20230429 - 143752
+    - Terrain_4_5-20230429 - 143752
+    - Terrain_4_6-20230429 - 143752
+    - Terrain_4_7-20230429 - 143752
+    - Terrain_4_8-20230429 - 143752
+    - Terrain_5_0-20230429 - 143752
+    - Terrain_5_1-20230429 - 143752
+    - Terrain_5_2-20230429 - 143752
+    - Terrain_5_3-20230429 - 143752
+    - Terrain_5_4-20230429 - 143752
+    - Terrain_5_5-20230429 - 143752
+    - Terrain_5_6-20230429 - 143752
+    - Terrain_5_7-20230429 - 143752
+    - Terrain_5_8-20230429 - 143752
+    - Terrain_6_0-20230429 - 143752
+    - Terrain_6_1-20230429 - 143752
+    - Terrain_6_2-20230429 - 143752
+    - Terrain_6_3-20230429 - 143752
+    - Terrain_6_4-20230429 - 143752
+    - Terrain_6_5-20230429 - 143752
+    - Terrain_6_6-20230429 - 143752
+    - Terrain_6_7-20230429 - 143752
+    - Terrain_6_8-20230429 - 143752
+    - Terrain_7_0-20230429 - 143752
+    - Terrain_7_1-20230429 - 143752
+    - Terrain_7_2-20230429 - 143752
+    - Terrain_7_3-20230429 - 143752
+    - Terrain_7_4-20230429 - 143752
+    - Terrain_7_5-20230429 - 143752
+    - Terrain_7_6-20230429 - 143752
+    - Terrain_7_7-20230429 - 143752
+    - Terrain_7_8-20230429 - 143752
+    - Terrain_8_0-20230429 - 143752
+    - Terrain_8_1-20230429 - 143752
+    - Terrain_8_2-20230429 - 143752
+    - Terrain_8_3-20230429 - 143752
+    - Terrain_8_4-20230429 - 143752
+    - Terrain_8_5-20230429 - 143752
+    - Terrain_8_6-20230429 - 143752
+    - Terrain_8_7-20230429 - 143752
+    - Terrain_8_8-20230429 - 143752
+    m_operationDateTime: 29-04-2023 14:37:52
+    scriptableObjectAssetGUID: 663df68dd7b61a84792a5378c72d0c31
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  m_terrainMinMaxCache:
+  - guid: Worldmap
+    isWorldmap: 1
+    recalculate: 0
+    min: 0
+    max: 7.018442
+  - guid: 5029cf6455eb9c844a2e41d5bd170bd0
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: 72f32922606898847a16344702ea945f
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: 0d94c84a46c578943812d076de9ced7c
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: 00d829c787e39074b97d2a6cc0927d0b
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: 78542c8277b1af64aad6d8d94349784f
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: f2fad4442ae64c7449e1ef97ec9fe1ba
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: ec840f2b55a52384c822dae3027119ee
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: 22fdb74f86dacf04db6a08bf623eec16
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: cb69f923daf96ac41af876a466efb0f6
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: 3e944a09b97592a4a8a11bde1588f6d5
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: 9e94bcb988b8df6458a9c6b567cf630a
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: dd39a86fc46d9c441aad36a3414faefb
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: 79646b14a8b102e40a9e14ae8822d6b2
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: 130c032e6d536c7458a792fcd381da06
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: a00e60ee9f3396e48ad43905e7f492aa
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: dff516ec1e0990c4795bde001879d5db
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: ac900c62c03e8314b80603a5e986dd72
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: 41eca75264336834c803ddb31a88b0b6
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: 3e4430b4e62723e4bb58af35cbfd0f8a
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: f558f550371ffca4a9091609524f7131
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: 6cb1877e85a27e340bd57f2270b5df77
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: e41f8f7e6f4238a4a8f6d9442cde3541
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: b4edb83e3b5a35f468ecbb2965ea718c
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: e4079e8f96e076a48ae872521e8573b2
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: 34255f3f688dc7f4a9f8335d9f9bb2f5
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: dda4b413a6f77a94dbaeccb7c7fb3de5
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: c90fd5f21936c7c4babac106aabea129
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: 6449f338b996e4149bfbc7ad9d38bb1f
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: 52a77f22db0b3944a9c7c218253b1192
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: 305d0dff684d3604d909468181039146
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: 6cf04ef137962f949af4d314ec5e2592
+    isWorldmap: 0
+    recalculate: 0
+    min: 4.507881
+    max: 6.511818
+  - guid: 1d17ba7df5c87d742a5b88063dfd1ab1
+    isWorldmap: 0
+    recalculate: 0
+    min: 3.847715
+    max: 6.4063478
+  - guid: 924453abc3bdbda45b39173f0d3fcfe5
+    isWorldmap: 0
+    recalculate: 0
+    min: 4.468818
+    max: 6.136812
+  - guid: f436550a779f3a44d94742553e371036
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: 64fd689a9d0f6e6458ce38fd224ca5ba
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: c78eac1dfb03a2b4aba158b3b11547b5
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: 6a36d08b1a924ed4f8f370b13f8b4626
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: 7267a1b9427710741a59f7f6632e5183
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: 86201891da5e6e2429fe94f08ff4f037
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: 90e4dec8f49ae7540810ecf94afbb1db
+    isWorldmap: 0
+    recalculate: 0
+    min: 4.0977187
+    max: 5.7110248
+  - guid: b159634e8e38edc40ab5d30891a1a701
+    isWorldmap: 0
+    recalculate: 0
+    min: 3.7109942
+    max: 7.0118256
+  - guid: 5681bb9598764774d954c20d63b3d072
+    isWorldmap: 0
+    recalculate: 0
+    min: 4.3672543
+    max: 6.855573
+  - guid: f3a13c14a98c0a347b251bfc5107c493
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: 2f9798817ba390a458a8213a1b6cc730
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: 902c432cd4fc82e4f8586eb08369f9c9
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: 83d2dbc49c7b21e47849d1beac6069d0
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: 4fa61f1820c56c54cbf9871860d78d77
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: f9174f830cb45044591583e359c6f2b1
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: 98703c490ae6d5441bdfcc969cc43b75
+    isWorldmap: 0
+    recalculate: 0
+    min: 3.394583
+    max: 5.9844666
+  - guid: 9cad0190463fdae4ba335cf9fb0005bc
+    isWorldmap: 0
+    recalculate: 0
+    min: 3.5508354
+    max: 6.918074
+  - guid: 6d36e5adc4af3fa4cade80c3b693a6fb
+    isWorldmap: 0
+    recalculate: 0
+    min: 4.418036
+    max: 6.8868237
+  - guid: a7dfd82ea0296e142bf01fb264ed8617
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: cd9f1006bdc3d704d8959de0a40cbcba
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: fbd32c7d910119e44938da60eba3ae27
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: d9c13e23c6eb2f444a8dd82cedb6ad1d
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: a1726a0bb0d089b4082905cb1e49c2b5
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: 69953a59092551a4f8b4c73e2fc8f48e
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: e702346442f92a449bd1e431d57f7c66
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: b3b2112fb33ad7f46b8440d6ec37d970
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: 646321871da98cf46a7dbeaa4fbbac6e
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: f4a20a42860ca424db2ae17c534b0036
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: d8670c67a000ac745a085b5c40ac51cf
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: a05211b12acbdd84f9097a6e982caef0
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: d0e1602561a9333498fc55e5a31ead20
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: 1c7b7f1ebaa90fd4596133d3b0357dcc
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: e6e45b4dbdc0741469d26a42faaa4693
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: 0d9a208b950c2244ab8f6fee98afd612
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: 6135768d848b88e42a014f4cd90512e5
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: 49b642c48d646c541842b3c576886a15
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: 22c08900759531a48bbe06196e207a27
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: dd27dad308bf4404190feab510c0cc2c
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: a0323ebf6e262774db12d13fbdc34823
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: 20254d4598c1e2d419b412016bef60a2
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: 3054f9f3de88fa34dbcd4f223b480c35
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: 8d73a26d25e7eed49b3e6f0bbb3d49d5
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: 295b8c82815807747bad1869e533212a
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: c385c0d16f600f64584f39f38e8857c3
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: 5802e844c97b34240b70ce176b439a7e
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: 33f7cbbafc0e9674c98b343036be10e9
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: fd684b52c72e9724184bc00ff2ac5302
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: d312a1634bb1d8d49a3b80112e4b3742
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  m_bakedMaskCacheEntries: []
+  m_worldBiomeMaskSettings: {fileID: 0}

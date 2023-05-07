@@ -1,0 +1,374 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e251860fcd970734c9f14ebd98a146c3, type: 3}
+  m_Name: GS-20230503 - 171143
+  m_EditorClassIdentifier: 
+  m_name: Session 20230503-171143
+  m_description: 'Rocking out at Creativity Central!
+
+
+    If you like Gaia please
+    consider rating it :)'
+  m_previewImage: {fileID: 0}
+  m_dateCreated: 03-05-2023 17:11:43
+  m_terrainWidth: 1024
+  m_terrainDepth: 1024
+  m_terrainHeight: 1024
+  m_seaLevel: 25
+  m_spawnDensity: 0.8
+  m_isLocked: 0
+  m_previewImageBytes: 
+  m_previewImageWidth: 0
+  m_previewImageHeight: 0
+  m_operations:
+  - m_description: Clear World
+    m_operationType: 10
+    m_isActive: 1
+    m_affectedTerrainNames: []
+    m_operationDateTime: 03-05-2023 17:12:42
+    scriptableObjectAssetGUID: 
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Creating World: 1 x 1 tiles, tile size: 1024'
+    m_operationType: 0
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230503 - 171243
+    m_operationDateTime: 03-05-2023 17:12:43
+    scriptableObjectAssetGUID: 41bacb88e2efc0944af3bf41b333527a
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (12)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230503 - 171243
+    m_operationDateTime: 03-05-2023 17:12:57
+    scriptableObjectAssetGUID: 7e9696367a90f244b9881f7b22883588
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing - Trees Details GOs SpawnExt Probes, AllTerrains, AnySource
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230503 - 171243
+    m_operationDateTime: 03-05-2023 17:13:38
+    scriptableObjectAssetGUID: 3f8568e1ccc05d342ba84405180a90a1
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (11)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230503 - 171243
+    m_operationDateTime: 03-05-2023 17:13:42
+    scriptableObjectAssetGUID: 4e3ceab62c62f434a86fc2501eaed118
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing - Trees Details GOs SpawnExt Probes, AllTerrains, AnySource
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230503 - 171243
+    m_operationDateTime: 03-05-2023 18:10:59
+    scriptableObjectAssetGUID: 4101f3f721197334c93d0c87776562dc
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (11)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230503 - 171243
+    m_operationDateTime: 03-05-2023 18:24:45
+    scriptableObjectAssetGUID: 6685289e0bf82f04297e62ddeee49003
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Coniferous Forest-VFX(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230503 - 171243
+    m_operationDateTime: 03-05-2023 18:29:52
+    scriptableObjectAssetGUID: 7d3af19bb0b473a4f8ec292be104447f
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (11)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230503 - 171243
+    m_operationDateTime: 03-05-2023 18:30:03
+    scriptableObjectAssetGUID: c77ddd9f4e9491149a3fd2afb973643d
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing - Trees Details GOs SpawnExt Probes, AllTerrains, AnySource
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230503 - 171243
+    m_operationDateTime: 03-05-2023 18:30:43
+    scriptableObjectAssetGUID: 7dad7b60ae347534399e8ea9d3c83f7f
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (11)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230503 - 171243
+    m_operationDateTime: 03-05-2023 18:40:34
+    scriptableObjectAssetGUID: 33342c74c70e668449aa19cf247e7b2d
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing - Trees Details GOs SpawnExt Probes, AllTerrains, AnySource
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230503 - 171243
+    m_operationDateTime: 03-05-2023 18:41:21
+    scriptableObjectAssetGUID: 70e13ad7deb7f434190c65ec27223373
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (11)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230503 - 171243
+    m_operationDateTime: 03-05-2023 18:42:33
+    scriptableObjectAssetGUID: 57484b5b839958246a84feeae14d3839
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing - Trees Details GOs SpawnExt Probes, AllTerrains, AnySource
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230503 - 171243
+    m_operationDateTime: 03-05-2023 19:21:02
+    scriptableObjectAssetGUID: 82b10f872917c9547b21aec209a2402e
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (10)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230503 - 171243
+    m_operationDateTime: 03-05-2023 19:39:30
+    scriptableObjectAssetGUID: f3bb538dbe892584f80e9752c8ce13b6
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing - Trees Details GOs SpawnExt Probes, AllTerrains, AnySource
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230503 - 171243
+    m_operationDateTime: 03-05-2023 19:41:53
+    scriptableObjectAssetGUID: 5ac7b0ef9916a3843b668f691ba5a37a
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (10)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230503 - 171243
+    m_operationDateTime: 03-05-2023 19:43:14
+    scriptableObjectAssetGUID: d645475311b6ab244a4312733196a875
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (10)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230503 - 171243
+    m_operationDateTime: 03-05-2023 19:46:26
+    scriptableObjectAssetGUID: 24b08a918ac436346aa52884b6c80298
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (11)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230503 - 171243
+    m_operationDateTime: 03-05-2023 19:46:42
+    scriptableObjectAssetGUID: d2bf66a426ba98a43bf92eef4735701e
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (11)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230503 - 171243
+    m_operationDateTime: 04-05-2023 19:00:06
+    scriptableObjectAssetGUID: 030641b4dae6e85458b0923d734ee4d5
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (11)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230503 - 171243
+    m_operationDateTime: 04-05-2023 19:03:26
+    scriptableObjectAssetGUID: 5f2a8481eb4058c44995a073adf62110
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (11)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230503 - 171243
+    m_operationDateTime: 04-05-2023 19:07:20
+    scriptableObjectAssetGUID: c7e952535c068b048bdbf98b70c0bdf7
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (11)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230503 - 171243
+    m_operationDateTime: 04-05-2023 19:20:31
+    scriptableObjectAssetGUID: ac34852c5ed19b84faccb18ee0f6c118
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  m_terrainMinMaxCache:
+  - guid: b3b2ea0d35d20fa4ea54be8a20dfdcda
+    isWorldmap: 0
+    recalculate: 0
+    min: 55.188343
+    max: 96.72022
+  - guid: f551c9bb258449b43af7aeaf0f531b03
+    isWorldmap: 0
+    recalculate: 0
+    min: 39.93811
+    max: 150.31479
+  - guid: Worldmap
+    isWorldmap: 1
+    recalculate: 0
+    min: 0
+    max: 0
+  m_bakedMaskCacheEntries:
+  - fileName: Terrain_0_0-20230503 - 171243_LayerGameObject_3600_3
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230503
+      - 171243/Terrain_0_0-20230503 - 171243_LayerGameObject_3600_3
+    fullPath: G:/Programs/Unity/Desert/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230503
+      - 171243/Terrain_0_0-20230503 - 171243_LayerGameObject_3600_3
+    texture: {fileID: 0}
+  - fileName: Terrain_0_0-20230503 - 171243_LayerGameObject_3600_4
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230503
+      - 171243/Terrain_0_0-20230503 - 171243_LayerGameObject_3600_4
+    fullPath: G:/Programs/Unity/Desert/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230503
+      - 171243/Terrain_0_0-20230503 - 171243_LayerGameObject_3600_4
+    texture: {fileID: 0}
+  - fileName: Terrain_0_0-20230503 - 171243_LayerTree_3584_-3
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230503
+      - 171243/Terrain_0_0-20230503 - 171243_LayerTree_3584_-3
+    fullPath: G:/Programs/Unity/Desert/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230503
+      - 171243/Terrain_0_0-20230503 - 171243_LayerTree_3584_-3
+    texture: {fileID: 0}
+  - fileName: Terrain_0_0-20230503 - 171243_LayerGameObject_3600_5
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230503
+      - 171243/Terrain_0_0-20230503 - 171243_LayerGameObject_3600_5
+    fullPath: G:/Programs/Unity/Desert/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230503
+      - 171243/Terrain_0_0-20230503 - 171243_LayerGameObject_3600_5
+    texture: {fileID: 0}
+  - fileName: Terrain_0_0-20230503 - 171243_LayerTree_3584_0
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230503
+      - 171243/Terrain_0_0-20230503 - 171243_LayerTree_3584_0
+    fullPath: G:/Programs/Unity/Desert/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230503
+      - 171243/Terrain_0_0-20230503 - 171243_LayerTree_3584_0
+    texture: {fileID: 0}
+  - fileName: Terrain_0_0-20230503 - 171243_LayerGameObject_3600_2
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230503
+      - 171243/Terrain_0_0-20230503 - 171243_LayerGameObject_3600_2
+    fullPath: G:/Programs/Unity/Desert/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230503
+      - 171243/Terrain_0_0-20230503 - 171243_LayerGameObject_3600_2
+    texture: {fileID: 0}
+  - fileName: Terrain_0_0-20230503 - 171243_LayerTree_3584_-2
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230503
+      - 171243/Terrain_0_0-20230503 - 171243_LayerTree_3584_-2
+    fullPath: G:/Programs/Unity/Desert/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230503
+      - 171243/Terrain_0_0-20230503 - 171243_LayerTree_3584_-2
+    texture: {fileID: 0}
+  - fileName: Terrain_0_0-20230503 - 171243_LayerGameObject_512_0.5
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230503
+      - 171243/Terrain_0_0-20230503 - 171243_LayerGameObject_512_0.5
+    fullPath: G:/Programs/Unity/Desert/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230503
+      - 171243/Terrain_0_0-20230503 - 171243_LayerGameObject_512_0.5
+    texture: {fileID: 0}
+  - fileName: Terrain_0_0-20230503 - 171243_LayerGameObject_1024_0.75
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230503
+      - 171243/Terrain_0_0-20230503 - 171243_LayerGameObject_1024_0.75
+    fullPath: G:/Programs/Unity/Desert/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230503
+      - 171243/Terrain_0_0-20230503 - 171243_LayerGameObject_1024_0.75
+    texture: {fileID: 0}
+  - fileName: Terrain_0_0-20230503 - 171243_LayerGameObject_2048_1
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230503
+      - 171243/Terrain_0_0-20230503 - 171243_LayerGameObject_2048_1
+    fullPath: G:/Programs/Unity/Desert/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230503
+      - 171243/Terrain_0_0-20230503 - 171243_LayerGameObject_2048_1
+    texture: {fileID: 0}
+  - fileName: Terrain_0_0-20230503 - 171243_LayerGameObject_16_0
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230503
+      - 171243/Terrain_0_0-20230503 - 171243_LayerGameObject_16_0
+    fullPath: G:/Programs/Unity/Desert/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230503
+      - 171243/Terrain_0_0-20230503 - 171243_LayerGameObject_16_0
+    texture: {fileID: 0}
+  - fileName: Terrain_0_0-20230503 - 171243_LayerGameObject_3584_12
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230503
+      - 171243/Terrain_0_0-20230503 - 171243_LayerGameObject_3584_12
+    fullPath: G:/Programs/Unity/Desert/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230503
+      - 171243/Terrain_0_0-20230503 - 171243_LayerGameObject_3584_12
+    texture: {fileID: 0}
+  m_worldBiomeMaskSettings: {fileID: 0}

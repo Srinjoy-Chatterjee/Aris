@@ -1,0 +1,657 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e251860fcd970734c9f14ebd98a146c3, type: 3}
+  m_Name: GS-20230427 - 203759
+  m_EditorClassIdentifier: 
+  m_name: Session 20230427-203759
+  m_description: 'Rocking out at Creativity Central!
+
+
+    If you like Gaia please
+    consider rating it :)'
+  m_previewImage: {fileID: 0}
+  m_dateCreated: 27-04-2023 20:37:59
+  m_terrainWidth: 1024
+  m_terrainDepth: 1024
+  m_terrainHeight: 1024
+  m_seaLevel: 50
+  m_spawnDensity: 0.8
+  m_isLocked: 0
+  m_previewImageBytes: 
+  m_previewImageWidth: 0
+  m_previewImageHeight: 0
+  m_operations:
+  - m_description: Clear World
+    m_operationType: 10
+    m_isActive: 1
+    m_affectedTerrainNames: []
+    m_operationDateTime: 27-04-2023 20:42:57
+    scriptableObjectAssetGUID: 
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Creating World: 1 x 1 tiles, tile size: 2048'
+    m_operationType: 0
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230427 - 204258
+    m_operationDateTime: 27-04-2023 20:42:58
+    scriptableObjectAssetGUID: bb8d78210e687ae439e3b50f4f9d5a0d
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clear World
+    m_operationType: 10
+    m_isActive: 1
+    m_affectedTerrainNames: []
+    m_operationDateTime: 27-04-2023 21:18:45
+    scriptableObjectAssetGUID: 
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Creating World: 1 x 1 tiles, tile size: 2048'
+    m_operationType: 0
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230427 - 211845
+    m_operationDateTime: 27-04-2023 21:18:46
+    scriptableObjectAssetGUID: 0726b80d2aedc1347bab768c6a222a99
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clear World
+    m_operationType: 10
+    m_isActive: 1
+    m_affectedTerrainNames: []
+    m_operationDateTime: 27-04-2023 22:16:49
+    scriptableObjectAssetGUID: 
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Creating World: 1 x 1 tiles, tile size: 2048'
+    m_operationType: 0
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230427 - 221649
+    m_operationDateTime: 27-04-2023 22:16:49
+    scriptableObjectAssetGUID: cf9d3f3053cedc64589c0785db1325e1
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: RaiseHeight - 2k Hills 4
+    m_operationType: 4
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230427 - 221649
+    m_operationDateTime: 27-04-2023 22:30:00
+    scriptableObjectAssetGUID: 6ba0dfd8144b19d469154be70210cc5e
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Undo - 1 Terrains
+    m_operationType: 5
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230427 - 221649
+    m_operationDateTime: 27-04-2023 22:31:59
+    scriptableObjectAssetGUID: 0c6825f98187eb745b084092815c95a4
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Redo - 1 Terrains
+    m_operationType: 6
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230427 - 221649
+    m_operationDateTime: 27-04-2023 22:32:05
+    scriptableObjectAssetGUID: 7903b151593d1b946a5372098f0c7193
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: RaiseHeight - 2K Hills 2
+    m_operationType: 4
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230427 - 221649
+    m_operationDateTime: 27-04-2023 22:32:14
+    scriptableObjectAssetGUID: abdb049e8f73e3140b161cdacc4ac42b
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: RaiseHeight - 2k Hills 5
+    m_operationType: 4
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230427 - 221649
+    m_operationDateTime: 27-04-2023 22:33:07
+    scriptableObjectAssetGUID: 08d2bde3644b81141b0da9be3efc63ab
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: RaiseHeight - 2k Hills 5
+    m_operationType: 4
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230427 - 221649
+    m_operationDateTime: 27-04-2023 22:33:42
+    scriptableObjectAssetGUID: 48e2cb13d34a74f41a8a2dcec648ca9a
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: RaiseHeight - 2k Hills 5
+    m_operationType: 4
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230427 - 221649
+    m_operationDateTime: 27-04-2023 22:34:24
+    scriptableObjectAssetGUID: 89608a35b75755e46a2bc2b1bf028baa
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: RaiseHeight - 2k Hills 5
+    m_operationType: 4
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230427 - 221649
+    m_operationDateTime: 27-04-2023 22:34:36
+    scriptableObjectAssetGUID: 6de7498e2b2a5a24bafa5ab2ea542516
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Undo - 1 Terrains
+    m_operationType: 5
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230427 - 221649
+    m_operationDateTime: 27-04-2023 22:34:47
+    scriptableObjectAssetGUID: 0253c6b5077027f42a7b11c56a0364f8
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Undo - 1 Terrains
+    m_operationType: 5
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230427 - 221649
+    m_operationDateTime: 27-04-2023 22:34:51
+    scriptableObjectAssetGUID: 8e6f226dfbe469d45b7052acde05344a
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: RaiseHeight - 2k Hills 5
+    m_operationType: 4
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230427 - 221649
+    m_operationDateTime: 27-04-2023 22:35:02
+    scriptableObjectAssetGUID: d66dfaeb4eb64774d961a45e58cdfdab
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Undo - 1 Terrains
+    m_operationType: 5
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230427 - 221649
+    m_operationDateTime: 27-04-2023 22:35:14
+    scriptableObjectAssetGUID: e4512c08fc058ff47b6e9f139574b09d
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: RaiseHeight - 2k Hills 5
+    m_operationType: 4
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230427 - 221649
+    m_operationDateTime: 27-04-2023 22:35:31
+    scriptableObjectAssetGUID: fa77df5fee256404294b08a51721a4af
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: RaiseHeight - 2k Hills 5
+    m_operationType: 4
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230427 - 221649
+    m_operationDateTime: 27-04-2023 22:35:53
+    scriptableObjectAssetGUID: 250409ad70ac9f646be046f79da7e633
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: RaiseHeight - 2k Hills 4
+    m_operationType: 4
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230427 - 221649
+    m_operationDateTime: 27-04-2023 22:36:37
+    scriptableObjectAssetGUID: caed496a75efe2d4d8aab9481865b18d
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: RaiseHeight - 2k Hills 4
+    m_operationType: 4
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230427 - 221649
+    m_operationDateTime: 27-04-2023 22:38:16
+    scriptableObjectAssetGUID: d1005863b56ee2e4cba486e3910372b6
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: RaiseHeight - 2k Hills 4
+    m_operationType: 4
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230427 - 221649
+    m_operationDateTime: 27-04-2023 22:38:25
+    scriptableObjectAssetGUID: 83bdf80ab07a81d4bba5c411c5bee0ce
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Undo - 1 Terrains
+    m_operationType: 5
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230427 - 221649
+    m_operationDateTime: 27-04-2023 22:38:52
+    scriptableObjectAssetGUID: 19e3202ab06394249a0890b55d3993b8
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Undo - 1 Terrains
+    m_operationType: 5
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230427 - 221649
+    m_operationDateTime: 27-04-2023 22:38:55
+    scriptableObjectAssetGUID: a37a8cfaf25b2dc4a98dc9e31656188c
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: RaiseHeight - 2k Hills 4
+    m_operationType: 4
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230427 - 221649
+    m_operationDateTime: 27-04-2023 22:39:16
+    scriptableObjectAssetGUID: 3479eaec8ba515f4fa982a007cbd1cf8
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: LowerHeight - 2k River 1
+    m_operationType: 4
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230427 - 221649
+    m_operationDateTime: 27-04-2023 23:05:04
+    scriptableObjectAssetGUID: 3380f7ef9d58eb64c8c2237723f1dbe7
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Undo - 1 Terrains
+    m_operationType: 5
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230427 - 221649
+    m_operationDateTime: 27-04-2023 23:05:25
+    scriptableObjectAssetGUID: c1d354bcaad93b943b2fe2fbddb967e9
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: LowerHeight - 2k River 1
+    m_operationType: 4
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230427 - 221649
+    m_operationDateTime: 27-04-2023 23:08:19
+    scriptableObjectAssetGUID: 665d3450ecbdc694ca1c2b62b46e927e
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Undo - 1 Terrains
+    m_operationType: 5
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230427 - 221649
+    m_operationDateTime: 27-04-2023 23:08:47
+    scriptableObjectAssetGUID: 35ef645e77210b2408dc29b9c0cda8d1
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Undo - 1 Terrains
+    m_operationType: 5
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230427 - 221649
+    m_operationDateTime: 27-04-2023 23:10:09
+    scriptableObjectAssetGUID: 8666c201fb580c94f9212ff1a4fdfc06
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Redo - 1 Terrains
+    m_operationType: 6
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230427 - 221649
+    m_operationDateTime: 27-04-2023 23:10:16
+    scriptableObjectAssetGUID: ec7a6f682a614bd41a4f2e26bcbb8c48
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Undo - 1 Terrains
+    m_operationType: 5
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230427 - 221649
+    m_operationDateTime: 27-04-2023 23:16:01
+    scriptableObjectAssetGUID: ed480d5e409285644aefb736b4602eee
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Undo - 1 Terrains
+    m_operationType: 5
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230427 - 221649
+    m_operationDateTime: 27-04-2023 23:16:06
+    scriptableObjectAssetGUID: f6bd7d6cc4ffa474496cce8a43ece3e2
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Undo - 1 Terrains
+    m_operationType: 5
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230427 - 221649
+    m_operationDateTime: 27-04-2023 23:16:09
+    scriptableObjectAssetGUID: 7a3b3ff47616c4e4e9cd716dfb8b0716
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Undo - 1 Terrains
+    m_operationType: 5
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230427 - 221649
+    m_operationDateTime: 27-04-2023 23:16:12
+    scriptableObjectAssetGUID: 2a96cef0dad0a8940aea45711cff1ee7
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Undo - 1 Terrains
+    m_operationType: 5
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230427 - 221649
+    m_operationDateTime: 27-04-2023 23:16:15
+    scriptableObjectAssetGUID: 4a7346b6e5ece444fa38a7c9777a6a74
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Undo - 1 Terrains
+    m_operationType: 5
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230427 - 221649
+    m_operationDateTime: 27-04-2023 23:16:19
+    scriptableObjectAssetGUID: 8c7e35771e5f4ab47806a2a9fa068365
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Undo - 1 Terrains
+    m_operationType: 5
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230427 - 221649
+    m_operationDateTime: 27-04-2023 23:16:22
+    scriptableObjectAssetGUID: 172da3661526349418ce65a8b3fb65fe
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Undo - 1 Terrains
+    m_operationType: 5
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230427 - 221649
+    m_operationDateTime: 27-04-2023 23:16:25
+    scriptableObjectAssetGUID: 92a66427655786148bb1f6ba1c26e707
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: RaiseHeight - 2K Hills 2
+    m_operationType: 4
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230427 - 221649
+    m_operationDateTime: 27-04-2023 23:17:38
+    scriptableObjectAssetGUID: 8f302d1d587131541af1940194a6e5fa
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: RaiseHeight - 2K Hills 2
+    m_operationType: 4
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230427 - 221649
+    m_operationDateTime: 27-04-2023 23:18:44
+    scriptableObjectAssetGUID: 76a13bf1bb6806d4daeef6a225b80169
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: RaiseHeight - 2K Hills 2
+    m_operationType: 4
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230427 - 221649
+    m_operationDateTime: 27-04-2023 23:19:14
+    scriptableObjectAssetGUID: 98caf2704cc72a14ea83b5b14b5b18a0
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: RaiseHeight - 2K Hills 2
+    m_operationType: 4
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230427 - 221649
+    m_operationDateTime: 27-04-2023 23:19:58
+    scriptableObjectAssetGUID: c2a84077f57b10a46b19adb552f1415a
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: RaiseHeight - 2K Hills 2
+    m_operationType: 4
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230427 - 221649
+    m_operationDateTime: 27-04-2023 23:20:33
+    scriptableObjectAssetGUID: 050d95ee254dda14489353249239a80f
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: RaiseHeight - 2k Hills 4
+    m_operationType: 4
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230427 - 221649
+    m_operationDateTime: 27-04-2023 23:20:55
+    scriptableObjectAssetGUID: 059d6a177c470eb488cccc825a5f9974
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: RaiseHeight - 2k Hills 4
+    m_operationType: 4
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230427 - 221649
+    m_operationDateTime: 27-04-2023 23:21:06
+    scriptableObjectAssetGUID: 9a8648701516f0c49b0c6adbc236172a
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: RaiseHeight - 2k Hills 4
+    m_operationType: 4
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230427 - 221649
+    m_operationDateTime: 27-04-2023 23:22:20
+    scriptableObjectAssetGUID: 606093f6df9129b479d1ca16dd621ca4
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: RaiseHeight - 2k Hills 5
+    m_operationType: 4
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230427 - 221649
+    m_operationDateTime: 27-04-2023 23:23:59
+    scriptableObjectAssetGUID: cb103a6106830d8408a895f405cb066f
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: RaiseHeight - 2k Hills 5
+    m_operationType: 4
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230427 - 221649
+    m_operationDateTime: 27-04-2023 23:24:33
+    scriptableObjectAssetGUID: 54c2c014729972045800b8d74dcd2c4f
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: RaiseHeight - 2k Hills 5
+    m_operationType: 4
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230427 - 221649
+    m_operationDateTime: 27-04-2023 23:24:52
+    scriptableObjectAssetGUID: 3e78c82ac1ec3b4469365daf1964361b
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Desert Texture Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230427 - 221649
+    m_operationDateTime: 28-04-2023 00:10:39
+    scriptableObjectAssetGUID: 81036dec794db4045b7b297502d463ac
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Desert Texture Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230427 - 221649
+    m_operationDateTime: 28-04-2023 00:25:16
+    scriptableObjectAssetGUID: 7f25ae03634d42046be74c32f998744c
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Desert Texture Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230427 - 221649
+    m_operationDateTime: 28-04-2023 00:25:48
+    scriptableObjectAssetGUID: 67216e4783254fa4ba0b26025c69ea14
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Desert Texture Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230427 - 221649
+    m_operationDateTime: 28-04-2023 00:35:33
+    scriptableObjectAssetGUID: 6b658a503aba9784a975ae25b6cad2aa
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  m_terrainMinMaxCache:
+  - guid: f5a905847a2a22b47babe1acdb70d2a7
+    isWorldmap: 0
+    recalculate: 1
+    min: 104.251595
+    max: 227.12846
+  - guid: d4e0f727ede095f41ab0d0a483686d4e
+    isWorldmap: 0
+    recalculate: 1
+    min: 91.8139
+    max: 227.06596
+  - guid: f7325e2423f7f0c4a902d380f5a23b8f
+    isWorldmap: 0
+    recalculate: 0
+    min: 97.68899
+    max: 290.25443
+  - guid: Worldmap
+    isWorldmap: 1
+    recalculate: 0
+    min: 0
+    max: 0
+  m_bakedMaskCacheEntries: []
+  m_worldBiomeMaskSettings: {fileID: 0}

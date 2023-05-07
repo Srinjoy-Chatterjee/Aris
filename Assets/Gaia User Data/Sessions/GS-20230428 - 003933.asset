@@ -1,0 +1,319 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e251860fcd970734c9f14ebd98a146c3, type: 3}
+  m_Name: GS-20230428 - 003933
+  m_EditorClassIdentifier: 
+  m_name: Session 20230428-003933
+  m_description: 'Rocking out at Creativity Central!
+
+
+    If you like Gaia please
+    consider rating it :)'
+  m_previewImage: {fileID: 0}
+  m_dateCreated: 28-04-2023 00:39:33
+  m_terrainWidth: 1024
+  m_terrainDepth: 1024
+  m_terrainHeight: 1024
+  m_seaLevel: 50
+  m_spawnDensity: 0.8
+  m_isLocked: 0
+  m_previewImageBytes: 
+  m_previewImageWidth: 0
+  m_previewImageHeight: 0
+  m_operations:
+  - m_description: Clear World
+    m_operationType: 10
+    m_isActive: 1
+    m_affectedTerrainNames: []
+    m_operationDateTime: 28-04-2023 00:47:43
+    scriptableObjectAssetGUID: 
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Creating World: 1 x 1 tiles, tile size: 2048'
+    m_operationType: 0
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230428 - 004743
+    m_operationDateTime: 28-04-2023 00:47:44
+    scriptableObjectAssetGUID: ad4f7cc5e8b1fe34b92cf963ad1b99c6
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Desert Texture Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230428 - 004743
+    m_operationDateTime: 28-04-2023 01:12:23
+    scriptableObjectAssetGUID: 6f9fb34b517d4f84bb659cd17d85b201
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Desert Texture Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230428 - 004743
+    m_operationDateTime: 28-04-2023 01:12:57
+    scriptableObjectAssetGUID: ed059e5be26fe5445830d50628e6776c
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Desert Texture Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230428 - 004743
+    m_operationDateTime: 28-04-2023 01:13:54
+    scriptableObjectAssetGUID: c32b587741b93314ea1910f2418a6865
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: RaiseHeight - 2K Hills 2
+    m_operationType: 4
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230428 - 004743
+    m_operationDateTime: 28-04-2023 01:23:10
+    scriptableObjectAssetGUID: 5a1c0041e5eeed74a9c6783f32313797
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Desert Texture Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230428 - 004743
+    m_operationDateTime: 28-04-2023 01:23:16
+    scriptableObjectAssetGUID: 8423bb487c3810e498d1be05e0606901
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: RaiseHeight - 2K Hills 2
+    m_operationType: 4
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230428 - 004743
+    m_operationDateTime: 28-04-2023 01:23:56
+    scriptableObjectAssetGUID: 1d7668420c2b784438cf330efecea04c
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Desert Texture Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230428 - 004743
+    m_operationDateTime: 28-04-2023 01:24:04
+    scriptableObjectAssetGUID: a19f1b866d85ed04c9704ee8d9bb3d9f
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: RaiseHeight - 2k Hills 4
+    m_operationType: 4
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230428 - 004743
+    m_operationDateTime: 28-04-2023 01:27:09
+    scriptableObjectAssetGUID: 18cf8e1874dd2f64884dd8805f16ee16
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Desert Texture Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230428 - 004743
+    m_operationDateTime: 28-04-2023 01:27:16
+    scriptableObjectAssetGUID: 384a2a23e99371740a7d913b6fb6e491
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: RaiseHeight - 2k Hills 5
+    m_operationType: 4
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230428 - 004743
+    m_operationDateTime: 28-04-2023 01:30:13
+    scriptableObjectAssetGUID: f7f9eea580734d64f8bf00db74f54138
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Desert Texture Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230428 - 004743
+    m_operationDateTime: 28-04-2023 01:30:20
+    scriptableObjectAssetGUID: 3241b104bd16a52469008eda3999185f
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: RaiseHeight - 2k Hills 5
+    m_operationType: 4
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230428 - 004743
+    m_operationDateTime: 28-04-2023 01:31:08
+    scriptableObjectAssetGUID: 4b1a0eda2dad9b848b5b8f00a7259eea
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Desert Texture Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230428 - 004743
+    m_operationDateTime: 28-04-2023 01:31:16
+    scriptableObjectAssetGUID: 82bc4aeb80276964198dd52cd14fd747
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: RaiseHeight - 2k Hills 5
+    m_operationType: 4
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230428 - 004743
+    m_operationDateTime: 28-04-2023 01:32:10
+    scriptableObjectAssetGUID: 426eaef382737d04fba1d8653c812014
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Desert Texture Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230428 - 004743
+    m_operationDateTime: 28-04-2023 01:32:18
+    scriptableObjectAssetGUID: ef86fc89660fda844abcd6d5273ed8e2
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: RaiseHeight - 4K Hills 5
+    m_operationType: 4
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230428 - 004743
+    m_operationDateTime: 28-04-2023 01:35:34
+    scriptableObjectAssetGUID: b004bcfef34f5d24398b82bb914450a6
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Desert Texture Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230428 - 004743
+    m_operationDateTime: 28-04-2023 01:35:41
+    scriptableObjectAssetGUID: af93a638c047e2f4094fed4e28cfd9ab
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: RaiseHeight - 4K Hills 5
+    m_operationType: 4
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230428 - 004743
+    m_operationDateTime: 28-04-2023 01:36:26
+    scriptableObjectAssetGUID: 12cc2f5b2821100498067b82b0d35a01
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Desert Texture Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230428 - 004743
+    m_operationDateTime: 28-04-2023 01:36:33
+    scriptableObjectAssetGUID: 0697bad0822b4274e8a1ba5d2903bbc9
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Desert Texture Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230428 - 004743
+    m_operationDateTime: 28-04-2023 14:05:39
+    scriptableObjectAssetGUID: 325d9cb495717454e9e867f38a0e83c6
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Desert Texture Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230428 - 004743
+    m_operationDateTime: 28-04-2023 14:14:56
+    scriptableObjectAssetGUID: c2521b911db4ad343ab349b259345993
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Desert Texture Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230428 - 004743
+    m_operationDateTime: 28-04-2023 14:15:54
+    scriptableObjectAssetGUID: d3086e29581bf9a4786fd49cce726b77
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Desert Texture Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230428 - 004743
+    m_operationDateTime: 28-04-2023 18:16:30
+    scriptableObjectAssetGUID: ea5fd3718e2bd4f4c8136a2dea773ab8
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  m_terrainMinMaxCache:
+  - guid: de8f7f771fadc684f8b1fc784fab6568
+    isWorldmap: 0
+    recalculate: 0
+    min: 115.81427
+    max: 285.25436
+  - guid: Worldmap
+    isWorldmap: 1
+    recalculate: 0
+    min: 0
+    max: 0
+  m_bakedMaskCacheEntries: []
+  m_worldBiomeMaskSettings: {fileID: 0}
