@@ -282,6 +282,17 @@ MonoBehaviour:
     sessionPlaybackState: 1
     m_terrainsFoldedOut: 0
     m_serializedExternalAction: 
+  - m_description: Clearing - Trees Details GOs SpawnExt Probes, AllTerrains, AnySource
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230503 - 171243
+    m_operationDateTime: 30-10-2023 23:20:00
+    scriptableObjectAssetGUID: fc28bc13a2c6953439616007cbc368d0
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
   m_terrainMinMaxCache:
   - guid: b3b2ea0d35d20fa4ea54be8a20dfdcda
     isWorldmap: 0
