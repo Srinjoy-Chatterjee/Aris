@@ -51,10 +51,10 @@ MonoBehaviour:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Enemy
   - Water
   - UI
-  - 
+  - Target
   - 
   - PW_VFX
   - PW_Object_Small
