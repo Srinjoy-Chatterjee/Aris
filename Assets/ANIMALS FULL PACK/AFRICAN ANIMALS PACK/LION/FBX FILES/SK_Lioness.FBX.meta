@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: f399e255068466042b1c555915bc64bd
+timeCreated: 1508545506
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: LION_
+    100002: LION_ Head
+    100004: LION_ L Calf
+    100006: LION_ L Clavicle
+    100008: LION_ L Finger0
+    100010: LION_ L Foot
+    100012: LION_ L Forearm
+    100014: LION_ L Hand
+    100016: LION_ L HorseLink
+    100018: LION_ L Thigh
+    100020: LION_ L Toe0
+    100022: LION_ L UpperArm
+    100024: LION_ Neck
+    100026: LION_ Neck1
+    100028: LION_ Pelvis
+    100030: LION_ Queue de cheval 1
+    100032: LION_ R Calf
+    100034: LION_ R Clavicle
+    100036: LION_ R Finger0
+    100038: LION_ R Foot
+    100040: LION_ R Forearm
+    100042: LION_ R Hand
+    100044: LION_ R HorseLink
+    100046: LION_ R Thigh
+    100048: LION_ R Toe0
+    100050: LION_ R UpperArm
+    100052: LION_ Spine
+    100054: LION_ Spine1
+    100056: LION_ Spine2
+    100058: LION_ Tail
+    100060: LION_ Tail1
+    100062: LION_ Tail2
+    100064: LION_ Tail3
+    100066: LION_ Tail4
+    100068: LION_ Tail5
+    100070: LION_ Tail6
+    100072: LION_ Tail7
+    100074: LION_ Tail8
+    100076: root
+    100078: //RootNode
+    100080: SK_Lioness_LOD0
+    100082: SK_Lioness_LOD1
+    100084: SK_Lioness_LOD2
+    400000: LION_
+    400002: LION_ Head
+    400004: LION_ L Calf
+    400006: LION_ L Clavicle
+    400008: LION_ L Finger0
+    400010: LION_ L Foot
+    400012: LION_ L Forearm
+    400014: LION_ L Hand
+    400016: LION_ L HorseLink
+    400018: LION_ L Thigh
+    400020: LION_ L Toe0
+    400022: LION_ L UpperArm
+    400024: LION_ Neck
+    400026: LION_ Neck1
+    400028: LION_ Pelvis
+    400030: LION_ Queue de cheval 1
+    400032: LION_ R Calf
+    400034: LION_ R Clavicle
+    400036: LION_ R Finger0
+    400038: LION_ R Foot
+    400040: LION_ R Forearm
+    400042: LION_ R Hand
+    400044: LION_ R HorseLink
+    400046: LION_ R Thigh
+    400048: LION_ R Toe0
+    400050: LION_ R UpperArm
+    400052: LION_ Spine
+    400054: LION_ Spine1
+    400056: LION_ Spine2
+    400058: LION_ Tail
+    400060: LION_ Tail1
+    400062: LION_ Tail2
+    400064: LION_ Tail3
+    400066: LION_ Tail4
+    400068: LION_ Tail5
+    400070: LION_ Tail6
+    400072: LION_ Tail7
+    400074: LION_ Tail8
+    400076: root
+    400078: //RootNode
+    400080: SK_Lioness_LOD0
+    400082: SK_Lioness_LOD1
+    400084: SK_Lioness_LOD2
+    4300000: SK_Lioness_LOD0
+    4300002: SK_Lioness_LOD1
+    4300004: SK_Lioness_LOD2
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: SK_Lioness_LOD0
+    13700002: SK_Lioness_LOD1
+    13700004: SK_Lioness_LOD2
+    20500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - .25
+    - .125
+    - .00999999978
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: root
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 22870f70af8984a459c4f92d6f8142b8,
+    type: 3}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

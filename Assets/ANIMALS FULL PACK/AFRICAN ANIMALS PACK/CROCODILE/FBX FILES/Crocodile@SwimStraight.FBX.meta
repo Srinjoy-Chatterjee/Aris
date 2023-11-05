@@ -1,0 +1,285 @@
+fileFormatVersion: 2
+guid: b536f116968d28448b6279dfbf2a27fc
+timeCreated: 1505421429
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: CROCODILE_
+    100004: CROCODILE_ Head
+    100006: CROCODILE_ L Calf
+    100008: CROCODILE_ L Clavicle
+    100010: CROCODILE_ L Finger0
+    100012: CROCODILE_ L Finger1
+    100014: CROCODILE_ L Foot
+    100016: CROCODILE_ L Forearm
+    100018: CROCODILE_ L Hand
+    100020: CROCODILE_ L Thigh
+    100022: CROCODILE_ L Toe0
+    100024: CROCODILE_ L Toe1
+    100026: CROCODILE_ L UpperArm
+    100028: CROCODILE_ Neck
+    100030: CROCODILE_ Neck1
+    100032: CROCODILE_ Pelvis
+    100034: CROCODILE_ Queue de cheval 1
+    100036: CROCODILE_ R Calf
+    100038: CROCODILE_ R Clavicle
+    100040: CROCODILE_ R Finger0
+    100042: CROCODILE_ R Finger1
+    100044: CROCODILE_ R Foot
+    100046: CROCODILE_ R Forearm
+    100048: CROCODILE_ R Hand
+    100050: CROCODILE_ R Thigh
+    100052: CROCODILE_ R Toe0
+    100054: CROCODILE_ R Toe1
+    100056: CROCODILE_ R UpperArm
+    100058: CROCODILE_ Spine
+    100060: CROCODILE_ Spine1
+    100062: CROCODILE_ Tail
+    100064: CROCODILE_ Tail1
+    100066: CROCODILE_ Tail2
+    100068: CROCODILE_ Tail3
+    100070: CROCODILE_ Tail4
+    100072: CROCODILE_ Tail5
+    100074: CROCODILE_ Tail6
+    100076: root
+    400000: //RootNode
+    400002: CROCODILE_
+    400004: CROCODILE_ Head
+    400006: CROCODILE_ L Calf
+    400008: CROCODILE_ L Clavicle
+    400010: CROCODILE_ L Finger0
+    400012: CROCODILE_ L Finger1
+    400014: CROCODILE_ L Foot
+    400016: CROCODILE_ L Forearm
+    400018: CROCODILE_ L Hand
+    400020: CROCODILE_ L Thigh
+    400022: CROCODILE_ L Toe0
+    400024: CROCODILE_ L Toe1
+    400026: CROCODILE_ L UpperArm
+    400028: CROCODILE_ Neck
+    400030: CROCODILE_ Neck1
+    400032: CROCODILE_ Pelvis
+    400034: CROCODILE_ Queue de cheval 1
+    400036: CROCODILE_ R Calf
+    400038: CROCODILE_ R Clavicle
+    400040: CROCODILE_ R Finger0
+    400042: CROCODILE_ R Finger1
+    400044: CROCODILE_ R Foot
+    400046: CROCODILE_ R Forearm
+    400048: CROCODILE_ R Hand
+    400050: CROCODILE_ R Thigh
+    400052: CROCODILE_ R Toe0
+    400054: CROCODILE_ R Toe1
+    400056: CROCODILE_ R UpperArm
+    400058: CROCODILE_ Spine
+    400060: CROCODILE_ Spine1
+    400062: CROCODILE_ Tail
+    400064: CROCODILE_ Tail1
+    400066: CROCODILE_ Tail2
+    400068: CROCODILE_ Tail3
+    400070: CROCODILE_ Tail4
+    400072: CROCODILE_ Tail5
+    400074: CROCODILE_ Tail6
+    400076: root
+    7400000: SwimStraight
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: SwimStraight
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: root
+        weight: 1
+      - path: root/CROCODILE_
+        weight: 1
+      - path: root/CROCODILE_/CROCODILE_ Pelvis
+        weight: 1
+      - path: root/CROCODILE_/CROCODILE_ Pelvis/CROCODILE_ L Thigh
+        weight: 1
+      - path: root/CROCODILE_/CROCODILE_ Pelvis/CROCODILE_ L Thigh/CROCODILE_ L Calf
+        weight: 1
+      - path: root/CROCODILE_/CROCODILE_ Pelvis/CROCODILE_ L Thigh/CROCODILE_ L Calf/CROCODILE_
+          L Foot
+        weight: 1
+      - path: root/CROCODILE_/CROCODILE_ Pelvis/CROCODILE_ L Thigh/CROCODILE_ L Calf/CROCODILE_
+          L Foot/CROCODILE_ L Toe0
+        weight: 1
+      - path: root/CROCODILE_/CROCODILE_ Pelvis/CROCODILE_ L Thigh/CROCODILE_ L Calf/CROCODILE_
+          L Foot/CROCODILE_ L Toe1
+        weight: 1
+      - path: root/CROCODILE_/CROCODILE_ Pelvis/CROCODILE_ R Thigh
+        weight: 1
+      - path: root/CROCODILE_/CROCODILE_ Pelvis/CROCODILE_ R Thigh/CROCODILE_ R Calf
+        weight: 1
+      - path: root/CROCODILE_/CROCODILE_ Pelvis/CROCODILE_ R Thigh/CROCODILE_ R Calf/CROCODILE_
+          R Foot
+        weight: 1
+      - path: root/CROCODILE_/CROCODILE_ Pelvis/CROCODILE_ R Thigh/CROCODILE_ R Calf/CROCODILE_
+          R Foot/CROCODILE_ R Toe0
+        weight: 1
+      - path: root/CROCODILE_/CROCODILE_ Pelvis/CROCODILE_ R Thigh/CROCODILE_ R Calf/CROCODILE_
+          R Foot/CROCODILE_ R Toe1
+        weight: 1
+      - path: root/CROCODILE_/CROCODILE_ Pelvis/CROCODILE_ Spine
+        weight: 1
+      - path: root/CROCODILE_/CROCODILE_ Pelvis/CROCODILE_ Spine/CROCODILE_ Spine1
+        weight: 1
+      - path: root/CROCODILE_/CROCODILE_ Pelvis/CROCODILE_ Spine/CROCODILE_ Spine1/CROCODILE_
+          L Clavicle
+        weight: 1
+      - path: root/CROCODILE_/CROCODILE_ Pelvis/CROCODILE_ Spine/CROCODILE_ Spine1/CROCODILE_
+          L Clavicle/CROCODILE_ L UpperArm
+        weight: 1
+      - path: root/CROCODILE_/CROCODILE_ Pelvis/CROCODILE_ Spine/CROCODILE_ Spine1/CROCODILE_
+          L Clavicle/CROCODILE_ L UpperArm/CROCODILE_ L Forearm
+        weight: 1
+      - path: root/CROCODILE_/CROCODILE_ Pelvis/CROCODILE_ Spine/CROCODILE_ Spine1/CROCODILE_
+          L Clavicle/CROCODILE_ L UpperArm/CROCODILE_ L Forearm/CROCODILE_ L Hand
+        weight: 1
+      - path: root/CROCODILE_/CROCODILE_ Pelvis/CROCODILE_ Spine/CROCODILE_ Spine1/CROCODILE_
+          L Clavicle/CROCODILE_ L UpperArm/CROCODILE_ L Forearm/CROCODILE_ L Hand/CROCODILE_
+          L Finger0
+        weight: 1
+      - path: root/CROCODILE_/CROCODILE_ Pelvis/CROCODILE_ Spine/CROCODILE_ Spine1/CROCODILE_
+          L Clavicle/CROCODILE_ L UpperArm/CROCODILE_ L Forearm/CROCODILE_ L Hand/CROCODILE_
+          L Finger1
+        weight: 1
+      - path: root/CROCODILE_/CROCODILE_ Pelvis/CROCODILE_ Spine/CROCODILE_ Spine1/CROCODILE_
+          Neck
+        weight: 1
+      - path: root/CROCODILE_/CROCODILE_ Pelvis/CROCODILE_ Spine/CROCODILE_ Spine1/CROCODILE_
+          Neck/CROCODILE_ Neck1
+        weight: 1
+      - path: root/CROCODILE_/CROCODILE_ Pelvis/CROCODILE_ Spine/CROCODILE_ Spine1/CROCODILE_
+          Neck/CROCODILE_ Neck1/CROCODILE_ Head
+        weight: 1
+      - path: root/CROCODILE_/CROCODILE_ Pelvis/CROCODILE_ Spine/CROCODILE_ Spine1/CROCODILE_
+          Neck/CROCODILE_ Neck1/CROCODILE_ Head/CROCODILE_ Queue de cheval 1
+        weight: 1
+      - path: root/CROCODILE_/CROCODILE_ Pelvis/CROCODILE_ Spine/CROCODILE_ Spine1/CROCODILE_
+          R Clavicle
+        weight: 1
+      - path: root/CROCODILE_/CROCODILE_ Pelvis/CROCODILE_ Spine/CROCODILE_ Spine1/CROCODILE_
+          R Clavicle/CROCODILE_ R UpperArm
+        weight: 1
+      - path: root/CROCODILE_/CROCODILE_ Pelvis/CROCODILE_ Spine/CROCODILE_ Spine1/CROCODILE_
+          R Clavicle/CROCODILE_ R UpperArm/CROCODILE_ R Forearm
+        weight: 1
+      - path: root/CROCODILE_/CROCODILE_ Pelvis/CROCODILE_ Spine/CROCODILE_ Spine1/CROCODILE_
+          R Clavicle/CROCODILE_ R UpperArm/CROCODILE_ R Forearm/CROCODILE_ R Hand
+        weight: 1
+      - path: root/CROCODILE_/CROCODILE_ Pelvis/CROCODILE_ Spine/CROCODILE_ Spine1/CROCODILE_
+          R Clavicle/CROCODILE_ R UpperArm/CROCODILE_ R Forearm/CROCODILE_ R Hand/CROCODILE_
+          R Finger0
+        weight: 1
+      - path: root/CROCODILE_/CROCODILE_ Pelvis/CROCODILE_ Spine/CROCODILE_ Spine1/CROCODILE_
+          R Clavicle/CROCODILE_ R UpperArm/CROCODILE_ R Forearm/CROCODILE_ R Hand/CROCODILE_
+          R Finger1
+        weight: 1
+      - path: root/CROCODILE_/CROCODILE_ Pelvis/CROCODILE_ Tail
+        weight: 1
+      - path: root/CROCODILE_/CROCODILE_ Pelvis/CROCODILE_ Tail/CROCODILE_ Tail1
+        weight: 1
+      - path: root/CROCODILE_/CROCODILE_ Pelvis/CROCODILE_ Tail/CROCODILE_ Tail1/CROCODILE_
+          Tail2
+        weight: 1
+      - path: root/CROCODILE_/CROCODILE_ Pelvis/CROCODILE_ Tail/CROCODILE_ Tail1/CROCODILE_
+          Tail2/CROCODILE_ Tail3
+        weight: 1
+      - path: root/CROCODILE_/CROCODILE_ Pelvis/CROCODILE_ Tail/CROCODILE_ Tail1/CROCODILE_
+          Tail2/CROCODILE_ Tail3/CROCODILE_ Tail4
+        weight: 1
+      - path: root/CROCODILE_/CROCODILE_ Pelvis/CROCODILE_ Tail/CROCODILE_ Tail1/CROCODILE_
+          Tail2/CROCODILE_ Tail3/CROCODILE_ Tail4/CROCODILE_ Tail5
+        weight: 1
+      - path: root/CROCODILE_/CROCODILE_ Pelvis/CROCODILE_ Tail/CROCODILE_ Tail1/CROCODILE_
+          Tail2/CROCODILE_ Tail3/CROCODILE_ Tail4/CROCODILE_ Tail5/CROCODILE_ Tail6
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: root
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 3f420de16bb280844a29cc4e4785c9f6,
+    type: 3}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

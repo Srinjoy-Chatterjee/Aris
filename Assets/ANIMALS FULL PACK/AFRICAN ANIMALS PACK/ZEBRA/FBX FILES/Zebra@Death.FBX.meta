@@ -1,0 +1,260 @@
+fileFormatVersion: 2
+guid: 1c5613b661424eb4189ff52f60e3d60c
+timeCreated: 1507582572
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: root
+    100002: //RootNode
+    100004: ZEBRA_
+    100006: ZEBRA_ Head
+    100008: ZEBRA_ L Calf
+    100010: ZEBRA_ L Clavicle
+    100012: ZEBRA_ L Finger0
+    100014: ZEBRA_ L Foot
+    100016: ZEBRA_ L Forearm
+    100018: ZEBRA_ L Hand
+    100020: ZEBRA_ L HorseLink
+    100022: ZEBRA_ L Thigh
+    100024: ZEBRA_ L UpperArm
+    100026: ZEBRA_ Neck
+    100028: ZEBRA_ Neck1
+    100030: ZEBRA_ Neck2
+    100032: ZEBRA_ Neck3
+    100034: ZEBRA_ Pelvis
+    100036: ZEBRA_ Queue de cheval 1
+    100038: ZEBRA_ R Calf
+    100040: ZEBRA_ R Clavicle
+    100042: ZEBRA_ R Finger0
+    100044: ZEBRA_ R Foot
+    100046: ZEBRA_ R Forearm
+    100048: ZEBRA_ R Hand
+    100050: ZEBRA_ R HorseLink
+    100052: ZEBRA_ R Thigh
+    100054: ZEBRA_ R UpperArm
+    100056: ZEBRA_ Spine
+    100058: ZEBRA_ Spine1
+    100060: ZEBRA_ Tail
+    100062: ZEBRA_ Tail1
+    100064: ZEBRA_ Tail2
+    100066: ZEBRA_ Tail3
+    100068: ZEBRA_ Tail4
+    100070: ZEBRA_ Tail5
+    400000: root
+    400002: //RootNode
+    400004: ZEBRA_
+    400006: ZEBRA_ Head
+    400008: ZEBRA_ L Calf
+    400010: ZEBRA_ L Clavicle
+    400012: ZEBRA_ L Finger0
+    400014: ZEBRA_ L Foot
+    400016: ZEBRA_ L Forearm
+    400018: ZEBRA_ L Hand
+    400020: ZEBRA_ L HorseLink
+    400022: ZEBRA_ L Thigh
+    400024: ZEBRA_ L UpperArm
+    400026: ZEBRA_ Neck
+    400028: ZEBRA_ Neck1
+    400030: ZEBRA_ Neck2
+    400032: ZEBRA_ Neck3
+    400034: ZEBRA_ Pelvis
+    400036: ZEBRA_ Queue de cheval 1
+    400038: ZEBRA_ R Calf
+    400040: ZEBRA_ R Clavicle
+    400042: ZEBRA_ R Finger0
+    400044: ZEBRA_ R Foot
+    400046: ZEBRA_ R Forearm
+    400048: ZEBRA_ R Hand
+    400050: ZEBRA_ R HorseLink
+    400052: ZEBRA_ R Thigh
+    400054: ZEBRA_ R UpperArm
+    400056: ZEBRA_ Spine
+    400058: ZEBRA_ Spine1
+    400060: ZEBRA_ Tail
+    400062: ZEBRA_ Tail1
+    400064: ZEBRA_ Tail2
+    400066: ZEBRA_ Tail3
+    400068: ZEBRA_ Tail4
+    400070: ZEBRA_ Tail5
+    7400000: Death
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Death
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 71
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: root
+        weight: 1
+      - path: root/ZEBRA_
+        weight: 1
+      - path: root/ZEBRA_/ZEBRA_ Pelvis
+        weight: 1
+      - path: root/ZEBRA_/ZEBRA_ Pelvis/ZEBRA_ L Thigh
+        weight: 1
+      - path: root/ZEBRA_/ZEBRA_ Pelvis/ZEBRA_ L Thigh/ZEBRA_ L Calf
+        weight: 1
+      - path: root/ZEBRA_/ZEBRA_ Pelvis/ZEBRA_ L Thigh/ZEBRA_ L Calf/ZEBRA_ L HorseLink
+        weight: 1
+      - path: root/ZEBRA_/ZEBRA_ Pelvis/ZEBRA_ L Thigh/ZEBRA_ L Calf/ZEBRA_ L HorseLink/ZEBRA_
+          L Foot
+        weight: 1
+      - path: root/ZEBRA_/ZEBRA_ Pelvis/ZEBRA_ R Thigh
+        weight: 1
+      - path: root/ZEBRA_/ZEBRA_ Pelvis/ZEBRA_ R Thigh/ZEBRA_ R Calf
+        weight: 1
+      - path: root/ZEBRA_/ZEBRA_ Pelvis/ZEBRA_ R Thigh/ZEBRA_ R Calf/ZEBRA_ R HorseLink
+        weight: 1
+      - path: root/ZEBRA_/ZEBRA_ Pelvis/ZEBRA_ R Thigh/ZEBRA_ R Calf/ZEBRA_ R HorseLink/ZEBRA_
+          R Foot
+        weight: 1
+      - path: root/ZEBRA_/ZEBRA_ Pelvis/ZEBRA_ Spine
+        weight: 1
+      - path: root/ZEBRA_/ZEBRA_ Pelvis/ZEBRA_ Spine/ZEBRA_ Spine1
+        weight: 1
+      - path: root/ZEBRA_/ZEBRA_ Pelvis/ZEBRA_ Spine/ZEBRA_ Spine1/ZEBRA_ L Clavicle
+        weight: 1
+      - path: root/ZEBRA_/ZEBRA_ Pelvis/ZEBRA_ Spine/ZEBRA_ Spine1/ZEBRA_ L Clavicle/ZEBRA_
+          L UpperArm
+        weight: 1
+      - path: root/ZEBRA_/ZEBRA_ Pelvis/ZEBRA_ Spine/ZEBRA_ Spine1/ZEBRA_ L Clavicle/ZEBRA_
+          L UpperArm/ZEBRA_ L Forearm
+        weight: 1
+      - path: root/ZEBRA_/ZEBRA_ Pelvis/ZEBRA_ Spine/ZEBRA_ Spine1/ZEBRA_ L Clavicle/ZEBRA_
+          L UpperArm/ZEBRA_ L Forearm/ZEBRA_ L Hand
+        weight: 1
+      - path: root/ZEBRA_/ZEBRA_ Pelvis/ZEBRA_ Spine/ZEBRA_ Spine1/ZEBRA_ L Clavicle/ZEBRA_
+          L UpperArm/ZEBRA_ L Forearm/ZEBRA_ L Hand/ZEBRA_ L Finger0
+        weight: 1
+      - path: root/ZEBRA_/ZEBRA_ Pelvis/ZEBRA_ Spine/ZEBRA_ Spine1/ZEBRA_ Neck
+        weight: 1
+      - path: root/ZEBRA_/ZEBRA_ Pelvis/ZEBRA_ Spine/ZEBRA_ Spine1/ZEBRA_ Neck/ZEBRA_
+          Neck1
+        weight: 1
+      - path: root/ZEBRA_/ZEBRA_ Pelvis/ZEBRA_ Spine/ZEBRA_ Spine1/ZEBRA_ Neck/ZEBRA_
+          Neck1/ZEBRA_ Neck2
+        weight: 1
+      - path: root/ZEBRA_/ZEBRA_ Pelvis/ZEBRA_ Spine/ZEBRA_ Spine1/ZEBRA_ Neck/ZEBRA_
+          Neck1/ZEBRA_ Neck2/ZEBRA_ Neck3
+        weight: 1
+      - path: root/ZEBRA_/ZEBRA_ Pelvis/ZEBRA_ Spine/ZEBRA_ Spine1/ZEBRA_ Neck/ZEBRA_
+          Neck1/ZEBRA_ Neck2/ZEBRA_ Neck3/ZEBRA_ Head
+        weight: 1
+      - path: root/ZEBRA_/ZEBRA_ Pelvis/ZEBRA_ Spine/ZEBRA_ Spine1/ZEBRA_ Neck/ZEBRA_
+          Neck1/ZEBRA_ Neck2/ZEBRA_ Neck3/ZEBRA_ Head/ZEBRA_ Queue de cheval 1
+        weight: 1
+      - path: root/ZEBRA_/ZEBRA_ Pelvis/ZEBRA_ Spine/ZEBRA_ Spine1/ZEBRA_ R Clavicle
+        weight: 1
+      - path: root/ZEBRA_/ZEBRA_ Pelvis/ZEBRA_ Spine/ZEBRA_ Spine1/ZEBRA_ R Clavicle/ZEBRA_
+          R UpperArm
+        weight: 1
+      - path: root/ZEBRA_/ZEBRA_ Pelvis/ZEBRA_ Spine/ZEBRA_ Spine1/ZEBRA_ R Clavicle/ZEBRA_
+          R UpperArm/ZEBRA_ R Forearm
+        weight: 1
+      - path: root/ZEBRA_/ZEBRA_ Pelvis/ZEBRA_ Spine/ZEBRA_ Spine1/ZEBRA_ R Clavicle/ZEBRA_
+          R UpperArm/ZEBRA_ R Forearm/ZEBRA_ R Hand
+        weight: 1
+      - path: root/ZEBRA_/ZEBRA_ Pelvis/ZEBRA_ Spine/ZEBRA_ Spine1/ZEBRA_ R Clavicle/ZEBRA_
+          R UpperArm/ZEBRA_ R Forearm/ZEBRA_ R Hand/ZEBRA_ R Finger0
+        weight: 1
+      - path: root/ZEBRA_/ZEBRA_ Pelvis/ZEBRA_ Tail
+        weight: 1
+      - path: root/ZEBRA_/ZEBRA_ Pelvis/ZEBRA_ Tail/ZEBRA_ Tail1
+        weight: 1
+      - path: root/ZEBRA_/ZEBRA_ Pelvis/ZEBRA_ Tail/ZEBRA_ Tail1/ZEBRA_ Tail2
+        weight: 1
+      - path: root/ZEBRA_/ZEBRA_ Pelvis/ZEBRA_ Tail/ZEBRA_ Tail1/ZEBRA_ Tail2/ZEBRA_
+          Tail3
+        weight: 1
+      - path: root/ZEBRA_/ZEBRA_ Pelvis/ZEBRA_ Tail/ZEBRA_ Tail1/ZEBRA_ Tail2/ZEBRA_
+          Tail3/ZEBRA_ Tail4
+        weight: 1
+      - path: root/ZEBRA_/ZEBRA_ Pelvis/ZEBRA_ Tail/ZEBRA_ Tail1/ZEBRA_ Tail2/ZEBRA_
+          Tail3/ZEBRA_ Tail4/ZEBRA_ Tail5
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: root
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 46cf0552780b7484c823607f3eb7c60e,
+    type: 3}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

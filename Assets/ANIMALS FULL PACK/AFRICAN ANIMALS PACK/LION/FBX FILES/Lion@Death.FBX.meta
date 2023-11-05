@@ -1,0 +1,283 @@
+fileFormatVersion: 2
+guid: fb0e0e2b9c35caf4f991fd922d6bba73
+timeCreated: 1508545504
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: LION_
+    100004: LION_ Head
+    100006: LION_ L Calf
+    100008: LION_ L Clavicle
+    100010: LION_ L Finger0
+    100012: LION_ L Foot
+    100014: LION_ L Forearm
+    100016: LION_ L Hand
+    100018: LION_ L HorseLink
+    100020: LION_ L Thigh
+    100022: LION_ L Toe0
+    100024: LION_ L UpperArm
+    100026: LION_ Neck
+    100028: LION_ Neck1
+    100030: LION_ Pelvis
+    100032: LION_ Queue de cheval 1
+    100034: LION_ R Calf
+    100036: LION_ R Clavicle
+    100038: LION_ R Finger0
+    100040: LION_ R Foot
+    100042: LION_ R Forearm
+    100044: LION_ R Hand
+    100046: LION_ R HorseLink
+    100048: LION_ R Thigh
+    100050: LION_ R Toe0
+    100052: LION_ R UpperArm
+    100054: LION_ Spine
+    100056: LION_ Spine1
+    100058: LION_ Spine2
+    100060: LION_ Tail
+    100062: LION_ Tail1
+    100064: LION_ Tail2
+    100066: LION_ Tail3
+    100068: LION_ Tail4
+    100070: LION_ Tail5
+    100072: LION_ Tail6
+    100074: LION_ Tail7
+    100076: LION_ Tail8
+    100078: root
+    400000: //RootNode
+    400002: LION_
+    400004: LION_ Head
+    400006: LION_ L Calf
+    400008: LION_ L Clavicle
+    400010: LION_ L Finger0
+    400012: LION_ L Foot
+    400014: LION_ L Forearm
+    400016: LION_ L Hand
+    400018: LION_ L HorseLink
+    400020: LION_ L Thigh
+    400022: LION_ L Toe0
+    400024: LION_ L UpperArm
+    400026: LION_ Neck
+    400028: LION_ Neck1
+    400030: LION_ Pelvis
+    400032: LION_ Queue de cheval 1
+    400034: LION_ R Calf
+    400036: LION_ R Clavicle
+    400038: LION_ R Finger0
+    400040: LION_ R Foot
+    400042: LION_ R Forearm
+    400044: LION_ R Hand
+    400046: LION_ R HorseLink
+    400048: LION_ R Thigh
+    400050: LION_ R Toe0
+    400052: LION_ R UpperArm
+    400054: LION_ Spine
+    400056: LION_ Spine1
+    400058: LION_ Spine2
+    400060: LION_ Tail
+    400062: LION_ Tail1
+    400064: LION_ Tail2
+    400066: LION_ Tail3
+    400068: LION_ Tail4
+    400070: LION_ Tail5
+    400072: LION_ Tail6
+    400074: LION_ Tail7
+    400076: LION_ Tail8
+    400078: root
+    7400000: Death
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Death
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 70
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: root
+        weight: 1
+      - path: root/LION_
+        weight: 1
+      - path: root/LION_/LION_ Pelvis
+        weight: 1
+      - path: root/LION_/LION_ Pelvis/LION_ Spine
+        weight: 1
+      - path: root/LION_/LION_ Pelvis/LION_ Spine/LION_ L Thigh
+        weight: 1
+      - path: root/LION_/LION_ Pelvis/LION_ Spine/LION_ L Thigh/LION_ L Calf
+        weight: 1
+      - path: root/LION_/LION_ Pelvis/LION_ Spine/LION_ L Thigh/LION_ L Calf/LION_
+          L HorseLink
+        weight: 1
+      - path: root/LION_/LION_ Pelvis/LION_ Spine/LION_ L Thigh/LION_ L Calf/LION_
+          L HorseLink/LION_ L Foot
+        weight: 1
+      - path: root/LION_/LION_ Pelvis/LION_ Spine/LION_ L Thigh/LION_ L Calf/LION_
+          L HorseLink/LION_ L Foot/LION_ L Toe0
+        weight: 1
+      - path: root/LION_/LION_ Pelvis/LION_ Spine/LION_ R Thigh
+        weight: 1
+      - path: root/LION_/LION_ Pelvis/LION_ Spine/LION_ R Thigh/LION_ R Calf
+        weight: 1
+      - path: root/LION_/LION_ Pelvis/LION_ Spine/LION_ R Thigh/LION_ R Calf/LION_
+          R HorseLink
+        weight: 1
+      - path: root/LION_/LION_ Pelvis/LION_ Spine/LION_ R Thigh/LION_ R Calf/LION_
+          R HorseLink/LION_ R Foot
+        weight: 1
+      - path: root/LION_/LION_ Pelvis/LION_ Spine/LION_ R Thigh/LION_ R Calf/LION_
+          R HorseLink/LION_ R Foot/LION_ R Toe0
+        weight: 1
+      - path: root/LION_/LION_ Pelvis/LION_ Spine/LION_ Spine1
+        weight: 1
+      - path: root/LION_/LION_ Pelvis/LION_ Spine/LION_ Spine1/LION_ Spine2
+        weight: 1
+      - path: root/LION_/LION_ Pelvis/LION_ Spine/LION_ Spine1/LION_ Spine2/LION_
+          L Clavicle
+        weight: 1
+      - path: root/LION_/LION_ Pelvis/LION_ Spine/LION_ Spine1/LION_ Spine2/LION_
+          L Clavicle/LION_ L UpperArm
+        weight: 1
+      - path: root/LION_/LION_ Pelvis/LION_ Spine/LION_ Spine1/LION_ Spine2/LION_
+          L Clavicle/LION_ L UpperArm/LION_ L Forearm
+        weight: 1
+      - path: root/LION_/LION_ Pelvis/LION_ Spine/LION_ Spine1/LION_ Spine2/LION_
+          L Clavicle/LION_ L UpperArm/LION_ L Forearm/LION_ L Hand
+        weight: 1
+      - path: root/LION_/LION_ Pelvis/LION_ Spine/LION_ Spine1/LION_ Spine2/LION_
+          L Clavicle/LION_ L UpperArm/LION_ L Forearm/LION_ L Hand/LION_ L Finger0
+        weight: 1
+      - path: root/LION_/LION_ Pelvis/LION_ Spine/LION_ Spine1/LION_ Spine2/LION_
+          Neck
+        weight: 1
+      - path: root/LION_/LION_ Pelvis/LION_ Spine/LION_ Spine1/LION_ Spine2/LION_
+          Neck/LION_ Neck1
+        weight: 1
+      - path: root/LION_/LION_ Pelvis/LION_ Spine/LION_ Spine1/LION_ Spine2/LION_
+          Neck/LION_ Neck1/LION_ Head
+        weight: 1
+      - path: root/LION_/LION_ Pelvis/LION_ Spine/LION_ Spine1/LION_ Spine2/LION_
+          Neck/LION_ Neck1/LION_ Head/LION_ Queue de cheval 1
+        weight: 1
+      - path: root/LION_/LION_ Pelvis/LION_ Spine/LION_ Spine1/LION_ Spine2/LION_
+          R Clavicle
+        weight: 1
+      - path: root/LION_/LION_ Pelvis/LION_ Spine/LION_ Spine1/LION_ Spine2/LION_
+          R Clavicle/LION_ R UpperArm
+        weight: 1
+      - path: root/LION_/LION_ Pelvis/LION_ Spine/LION_ Spine1/LION_ Spine2/LION_
+          R Clavicle/LION_ R UpperArm/LION_ R Forearm
+        weight: 1
+      - path: root/LION_/LION_ Pelvis/LION_ Spine/LION_ Spine1/LION_ Spine2/LION_
+          R Clavicle/LION_ R UpperArm/LION_ R Forearm/LION_ R Hand
+        weight: 1
+      - path: root/LION_/LION_ Pelvis/LION_ Spine/LION_ Spine1/LION_ Spine2/LION_
+          R Clavicle/LION_ R UpperArm/LION_ R Forearm/LION_ R Hand/LION_ R Finger0
+        weight: 1
+      - path: root/LION_/LION_ Pelvis/LION_ Tail
+        weight: 1
+      - path: root/LION_/LION_ Pelvis/LION_ Tail/LION_ Tail1
+        weight: 1
+      - path: root/LION_/LION_ Pelvis/LION_ Tail/LION_ Tail1/LION_ Tail2
+        weight: 1
+      - path: root/LION_/LION_ Pelvis/LION_ Tail/LION_ Tail1/LION_ Tail2/LION_ Tail3
+        weight: 1
+      - path: root/LION_/LION_ Pelvis/LION_ Tail/LION_ Tail1/LION_ Tail2/LION_ Tail3/LION_
+          Tail4
+        weight: 1
+      - path: root/LION_/LION_ Pelvis/LION_ Tail/LION_ Tail1/LION_ Tail2/LION_ Tail3/LION_
+          Tail4/LION_ Tail5
+        weight: 1
+      - path: root/LION_/LION_ Pelvis/LION_ Tail/LION_ Tail1/LION_ Tail2/LION_ Tail3/LION_
+          Tail4/LION_ Tail5/LION_ Tail6
+        weight: 1
+      - path: root/LION_/LION_ Pelvis/LION_ Tail/LION_ Tail1/LION_ Tail2/LION_ Tail3/LION_
+          Tail4/LION_ Tail5/LION_ Tail6/LION_ Tail7
+        weight: 1
+      - path: root/LION_/LION_ Pelvis/LION_ Tail/LION_ Tail1/LION_ Tail2/LION_ Tail3/LION_
+          Tail4/LION_ Tail5/LION_ Tail6/LION_ Tail7/LION_ Tail8
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: root
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 22870f70af8984a459c4f92d6f8142b8,
+    type: 3}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

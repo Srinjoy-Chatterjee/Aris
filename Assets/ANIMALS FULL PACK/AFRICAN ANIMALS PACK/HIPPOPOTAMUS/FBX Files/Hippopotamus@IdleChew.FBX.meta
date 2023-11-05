@@ -1,0 +1,240 @@
+fileFormatVersion: 2
+guid: 2ef2f6c23af45694db84ec1e09b3a098
+timeCreated: 1506483154
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: HIPPOPOTAMUS_
+    100004: HIPPOPOTAMUS_ Head
+    100006: HIPPOPOTAMUS_ L Calf
+    100008: HIPPOPOTAMUS_ L Clavicle
+    100010: HIPPOPOTAMUS_ L Foot
+    100012: HIPPOPOTAMUS_ L Forearm
+    100014: HIPPOPOTAMUS_ L Hand
+    100016: HIPPOPOTAMUS_ L HorseLink
+    100018: HIPPOPOTAMUS_ L Thigh
+    100020: HIPPOPOTAMUS_ L UpperArm
+    100022: HIPPOPOTAMUS_ Neck
+    100024: HIPPOPOTAMUS_ Neck1
+    100026: HIPPOPOTAMUS_ Pelvis
+    100028: HIPPOPOTAMUS_ Queue de cheval 1
+    100030: HIPPOPOTAMUS_ R Calf
+    100032: HIPPOPOTAMUS_ R Clavicle
+    100034: HIPPOPOTAMUS_ R Foot
+    100036: HIPPOPOTAMUS_ R Forearm
+    100038: HIPPOPOTAMUS_ R Hand
+    100040: HIPPOPOTAMUS_ R HorseLink
+    100042: HIPPOPOTAMUS_ R Thigh
+    100044: HIPPOPOTAMUS_ R UpperArm
+    100046: HIPPOPOTAMUS_ Spine
+    100048: HIPPOPOTAMUS_ Spine1
+    100050: HIPPOPOTAMUS_ Tail
+    100052: HIPPOPOTAMUS_ Tail1
+    100054: HIPPOPOTAMUS_ Tail2
+    100056: root
+    400000: //RootNode
+    400002: HIPPOPOTAMUS_
+    400004: HIPPOPOTAMUS_ Head
+    400006: HIPPOPOTAMUS_ L Calf
+    400008: HIPPOPOTAMUS_ L Clavicle
+    400010: HIPPOPOTAMUS_ L Foot
+    400012: HIPPOPOTAMUS_ L Forearm
+    400014: HIPPOPOTAMUS_ L Hand
+    400016: HIPPOPOTAMUS_ L HorseLink
+    400018: HIPPOPOTAMUS_ L Thigh
+    400020: HIPPOPOTAMUS_ L UpperArm
+    400022: HIPPOPOTAMUS_ Neck
+    400024: HIPPOPOTAMUS_ Neck1
+    400026: HIPPOPOTAMUS_ Pelvis
+    400028: HIPPOPOTAMUS_ Queue de cheval 1
+    400030: HIPPOPOTAMUS_ R Calf
+    400032: HIPPOPOTAMUS_ R Clavicle
+    400034: HIPPOPOTAMUS_ R Foot
+    400036: HIPPOPOTAMUS_ R Forearm
+    400038: HIPPOPOTAMUS_ R Hand
+    400040: HIPPOPOTAMUS_ R HorseLink
+    400042: HIPPOPOTAMUS_ R Thigh
+    400044: HIPPOPOTAMUS_ R UpperArm
+    400046: HIPPOPOTAMUS_ Spine
+    400048: HIPPOPOTAMUS_ Spine1
+    400050: HIPPOPOTAMUS_ Tail
+    400052: HIPPOPOTAMUS_ Tail1
+    400054: HIPPOPOTAMUS_ Tail2
+    400056: root
+    7400000: IdleChew
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: IdleChew
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: root
+        weight: 1
+      - path: root/HIPPOPOTAMUS_
+        weight: 1
+      - path: root/HIPPOPOTAMUS_/HIPPOPOTAMUS_ Pelvis
+        weight: 1
+      - path: root/HIPPOPOTAMUS_/HIPPOPOTAMUS_ Pelvis/HIPPOPOTAMUS_ L Thigh
+        weight: 1
+      - path: root/HIPPOPOTAMUS_/HIPPOPOTAMUS_ Pelvis/HIPPOPOTAMUS_ L Thigh/HIPPOPOTAMUS_
+          L Calf
+        weight: 1
+      - path: root/HIPPOPOTAMUS_/HIPPOPOTAMUS_ Pelvis/HIPPOPOTAMUS_ L Thigh/HIPPOPOTAMUS_
+          L Calf/HIPPOPOTAMUS_ L HorseLink
+        weight: 1
+      - path: root/HIPPOPOTAMUS_/HIPPOPOTAMUS_ Pelvis/HIPPOPOTAMUS_ L Thigh/HIPPOPOTAMUS_
+          L Calf/HIPPOPOTAMUS_ L HorseLink/HIPPOPOTAMUS_ L Foot
+        weight: 1
+      - path: root/HIPPOPOTAMUS_/HIPPOPOTAMUS_ Pelvis/HIPPOPOTAMUS_ R Thigh
+        weight: 1
+      - path: root/HIPPOPOTAMUS_/HIPPOPOTAMUS_ Pelvis/HIPPOPOTAMUS_ R Thigh/HIPPOPOTAMUS_
+          R Calf
+        weight: 1
+      - path: root/HIPPOPOTAMUS_/HIPPOPOTAMUS_ Pelvis/HIPPOPOTAMUS_ R Thigh/HIPPOPOTAMUS_
+          R Calf/HIPPOPOTAMUS_ R HorseLink
+        weight: 1
+      - path: root/HIPPOPOTAMUS_/HIPPOPOTAMUS_ Pelvis/HIPPOPOTAMUS_ R Thigh/HIPPOPOTAMUS_
+          R Calf/HIPPOPOTAMUS_ R HorseLink/HIPPOPOTAMUS_ R Foot
+        weight: 1
+      - path: root/HIPPOPOTAMUS_/HIPPOPOTAMUS_ Pelvis/HIPPOPOTAMUS_ Spine
+        weight: 1
+      - path: root/HIPPOPOTAMUS_/HIPPOPOTAMUS_ Pelvis/HIPPOPOTAMUS_ Spine/HIPPOPOTAMUS_
+          Spine1
+        weight: 1
+      - path: root/HIPPOPOTAMUS_/HIPPOPOTAMUS_ Pelvis/HIPPOPOTAMUS_ Spine/HIPPOPOTAMUS_
+          Spine1/HIPPOPOTAMUS_ L Clavicle
+        weight: 1
+      - path: root/HIPPOPOTAMUS_/HIPPOPOTAMUS_ Pelvis/HIPPOPOTAMUS_ Spine/HIPPOPOTAMUS_
+          Spine1/HIPPOPOTAMUS_ L Clavicle/HIPPOPOTAMUS_ L UpperArm
+        weight: 1
+      - path: root/HIPPOPOTAMUS_/HIPPOPOTAMUS_ Pelvis/HIPPOPOTAMUS_ Spine/HIPPOPOTAMUS_
+          Spine1/HIPPOPOTAMUS_ L Clavicle/HIPPOPOTAMUS_ L UpperArm/HIPPOPOTAMUS_ L
+          Forearm
+        weight: 1
+      - path: root/HIPPOPOTAMUS_/HIPPOPOTAMUS_ Pelvis/HIPPOPOTAMUS_ Spine/HIPPOPOTAMUS_
+          Spine1/HIPPOPOTAMUS_ L Clavicle/HIPPOPOTAMUS_ L UpperArm/HIPPOPOTAMUS_ L
+          Forearm/HIPPOPOTAMUS_ L Hand
+        weight: 1
+      - path: root/HIPPOPOTAMUS_/HIPPOPOTAMUS_ Pelvis/HIPPOPOTAMUS_ Spine/HIPPOPOTAMUS_
+          Spine1/HIPPOPOTAMUS_ Neck
+        weight: 1
+      - path: root/HIPPOPOTAMUS_/HIPPOPOTAMUS_ Pelvis/HIPPOPOTAMUS_ Spine/HIPPOPOTAMUS_
+          Spine1/HIPPOPOTAMUS_ Neck/HIPPOPOTAMUS_ Neck1
+        weight: 1
+      - path: root/HIPPOPOTAMUS_/HIPPOPOTAMUS_ Pelvis/HIPPOPOTAMUS_ Spine/HIPPOPOTAMUS_
+          Spine1/HIPPOPOTAMUS_ Neck/HIPPOPOTAMUS_ Neck1/HIPPOPOTAMUS_ Head
+        weight: 1
+      - path: root/HIPPOPOTAMUS_/HIPPOPOTAMUS_ Pelvis/HIPPOPOTAMUS_ Spine/HIPPOPOTAMUS_
+          Spine1/HIPPOPOTAMUS_ Neck/HIPPOPOTAMUS_ Neck1/HIPPOPOTAMUS_ Head/HIPPOPOTAMUS_
+          Queue de cheval 1
+        weight: 1
+      - path: root/HIPPOPOTAMUS_/HIPPOPOTAMUS_ Pelvis/HIPPOPOTAMUS_ Spine/HIPPOPOTAMUS_
+          Spine1/HIPPOPOTAMUS_ R Clavicle
+        weight: 1
+      - path: root/HIPPOPOTAMUS_/HIPPOPOTAMUS_ Pelvis/HIPPOPOTAMUS_ Spine/HIPPOPOTAMUS_
+          Spine1/HIPPOPOTAMUS_ R Clavicle/HIPPOPOTAMUS_ R UpperArm
+        weight: 1
+      - path: root/HIPPOPOTAMUS_/HIPPOPOTAMUS_ Pelvis/HIPPOPOTAMUS_ Spine/HIPPOPOTAMUS_
+          Spine1/HIPPOPOTAMUS_ R Clavicle/HIPPOPOTAMUS_ R UpperArm/HIPPOPOTAMUS_ R
+          Forearm
+        weight: 1
+      - path: root/HIPPOPOTAMUS_/HIPPOPOTAMUS_ Pelvis/HIPPOPOTAMUS_ Spine/HIPPOPOTAMUS_
+          Spine1/HIPPOPOTAMUS_ R Clavicle/HIPPOPOTAMUS_ R UpperArm/HIPPOPOTAMUS_ R
+          Forearm/HIPPOPOTAMUS_ R Hand
+        weight: 1
+      - path: root/HIPPOPOTAMUS_/HIPPOPOTAMUS_ Pelvis/HIPPOPOTAMUS_ Tail
+        weight: 1
+      - path: root/HIPPOPOTAMUS_/HIPPOPOTAMUS_ Pelvis/HIPPOPOTAMUS_ Tail/HIPPOPOTAMUS_
+          Tail1
+        weight: 1
+      - path: root/HIPPOPOTAMUS_/HIPPOPOTAMUS_ Pelvis/HIPPOPOTAMUS_ Tail/HIPPOPOTAMUS_
+          Tail1/HIPPOPOTAMUS_ Tail2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: root
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 5ffb2bcb5dbbf63499bf4c6bfd591bb8,
+    type: 3}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

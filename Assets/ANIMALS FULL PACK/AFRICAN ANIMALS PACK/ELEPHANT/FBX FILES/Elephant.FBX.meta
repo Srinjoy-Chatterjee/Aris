@@ -1,0 +1,544 @@
+fileFormatVersion: 2
+guid: 81b6d96cc57c51f498a9fb54f4976dda
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: ELEPHANT_
+  - first:
+      1: 100004
+    second: ELEPHANT_ Footsteps
+  - first:
+      1: 100006
+    second: ELEPHANT_ Head
+  - first:
+      1: 100008
+    second: ELEPHANT_ L Calf
+  - first:
+      1: 100010
+    second: ELEPHANT_ L Clavicle
+  - first:
+      1: 100012
+    second: ELEPHANT_ L Foot
+  - first:
+      1: 100014
+    second: ELEPHANT_ L Forearm
+  - first:
+      1: 100016
+    second: ELEPHANT_ L Hand
+  - first:
+      1: 100018
+    second: ELEPHANT_ L Thigh
+  - first:
+      1: 100020
+    second: ELEPHANT_ L UpperArm
+  - first:
+      1: 100022
+    second: ELEPHANT_ Neck
+  - first:
+      1: 100024
+    second: ELEPHANT_ Neck1
+  - first:
+      1: 100026
+    second: ELEPHANT_ Pelvis
+  - first:
+      1: 100028
+    second: ELEPHANT_ Queue de cheval 1
+  - first:
+      1: 100030
+    second: ELEPHANT_ Queue de cheval 11
+  - first:
+      1: 100032
+    second: ELEPHANT_ Queue de cheval 110
+  - first:
+      1: 100034
+    second: ELEPHANT_ Queue de cheval 111
+  - first:
+      1: 100036
+    second: ELEPHANT_ Queue de cheval 112
+  - first:
+      1: 100038
+    second: ELEPHANT_ Queue de cheval 113
+  - first:
+      1: 100040
+    second: ELEPHANT_ Queue de cheval 12
+  - first:
+      1: 100042
+    second: ELEPHANT_ Queue de cheval 13
+  - first:
+      1: 100044
+    second: ELEPHANT_ Queue de cheval 14
+  - first:
+      1: 100046
+    second: ELEPHANT_ Queue de cheval 15
+  - first:
+      1: 100048
+    second: ELEPHANT_ Queue de cheval 16
+  - first:
+      1: 100050
+    second: ELEPHANT_ Queue de cheval 17
+  - first:
+      1: 100052
+    second: ELEPHANT_ Queue de cheval 18
+  - first:
+      1: 100054
+    second: ELEPHANT_ Queue de cheval 19
+  - first:
+      1: 100056
+    second: ELEPHANT_ Queue de cheval 2
+  - first:
+      1: 100058
+    second: ELEPHANT_ R Calf
+  - first:
+      1: 100060
+    second: ELEPHANT_ R Clavicle
+  - first:
+      1: 100062
+    second: ELEPHANT_ R Foot
+  - first:
+      1: 100064
+    second: ELEPHANT_ R Forearm
+  - first:
+      1: 100066
+    second: ELEPHANT_ R Hand
+  - first:
+      1: 100068
+    second: ELEPHANT_ R Thigh
+  - first:
+      1: 100070
+    second: ELEPHANT_ R UpperArm
+  - first:
+      1: 100072
+    second: ELEPHANT_ Spine
+  - first:
+      1: 100074
+    second: ELEPHANT_ Spine1
+  - first:
+      1: 100076
+    second: ELEPHANT_ Tail
+  - first:
+      1: 100078
+    second: ELEPHANT_ Tail1
+  - first:
+      1: 100080
+    second: ELEPHANT_ Tail2
+  - first:
+      1: 100082
+    second: ELEPHANT_ Tail3
+  - first:
+      1: 100084
+    second: ELEPHANT_ Tail4
+  - first:
+      1: 100086
+    second: ELEPHANT_ Tail5
+  - first:
+      1: 100088
+    second: ELEPHANT_ Tail6
+  - first:
+      1: 100090
+    second: ELEPHANT_ear_L_1
+  - first:
+      1: 100092
+    second: ELEPHANt_ear_L_2
+  - first:
+      1: 100094
+    second: ELEPHANt_ear_R_1
+  - first:
+      1: 100096
+    second: ELEPHANT_ear_R_2
+  - first:
+      1: 100098
+    second: root
+  - first:
+      1: 100100
+    second: SK_Elephant_LOD0
+  - first:
+      1: 100102
+    second: SK_Elephant_LOD1
+  - first:
+      1: 100104
+    second: SK_TusksBig_LOD0
+  - first:
+      1: 100106
+    second: SK_TusksBig_LOD1
+  - first:
+      1: 100108
+    second: SK_TusksBig_LOD2
+  - first:
+      1: 100110
+    second: SK_TusksMedium_LOD0
+  - first:
+      1: 100112
+    second: SK_TusksMedium_LOD1
+  - first:
+      1: 100114
+    second: SK_TusksMedium_LOD2
+  - first:
+      1: 100116
+    second: SK_TusksSmall_LOD0
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: ELEPHANT_
+  - first:
+      4: 400004
+    second: ELEPHANT_ Footsteps
+  - first:
+      4: 400006
+    second: ELEPHANT_ Head
+  - first:
+      4: 400008
+    second: ELEPHANT_ L Calf
+  - first:
+      4: 400010
+    second: ELEPHANT_ L Clavicle
+  - first:
+      4: 400012
+    second: ELEPHANT_ L Foot
+  - first:
+      4: 400014
+    second: ELEPHANT_ L Forearm
+  - first:
+      4: 400016
+    second: ELEPHANT_ L Hand
+  - first:
+      4: 400018
+    second: ELEPHANT_ L Thigh
+  - first:
+      4: 400020
+    second: ELEPHANT_ L UpperArm
+  - first:
+      4: 400022
+    second: ELEPHANT_ Neck
+  - first:
+      4: 400024
+    second: ELEPHANT_ Neck1
+  - first:
+      4: 400026
+    second: ELEPHANT_ Pelvis
+  - first:
+      4: 400028
+    second: ELEPHANT_ Queue de cheval 1
+  - first:
+      4: 400030
+    second: ELEPHANT_ Queue de cheval 11
+  - first:
+      4: 400032
+    second: ELEPHANT_ Queue de cheval 110
+  - first:
+      4: 400034
+    second: ELEPHANT_ Queue de cheval 111
+  - first:
+      4: 400036
+    second: ELEPHANT_ Queue de cheval 112
+  - first:
+      4: 400038
+    second: ELEPHANT_ Queue de cheval 113
+  - first:
+      4: 400040
+    second: ELEPHANT_ Queue de cheval 12
+  - first:
+      4: 400042
+    second: ELEPHANT_ Queue de cheval 13
+  - first:
+      4: 400044
+    second: ELEPHANT_ Queue de cheval 14
+  - first:
+      4: 400046
+    second: ELEPHANT_ Queue de cheval 15
+  - first:
+      4: 400048
+    second: ELEPHANT_ Queue de cheval 16
+  - first:
+      4: 400050
+    second: ELEPHANT_ Queue de cheval 17
+  - first:
+      4: 400052
+    second: ELEPHANT_ Queue de cheval 18
+  - first:
+      4: 400054
+    second: ELEPHANT_ Queue de cheval 19
+  - first:
+      4: 400056
+    second: ELEPHANT_ Queue de cheval 2
+  - first:
+      4: 400058
+    second: ELEPHANT_ R Calf
+  - first:
+      4: 400060
+    second: ELEPHANT_ R Clavicle
+  - first:
+      4: 400062
+    second: ELEPHANT_ R Foot
+  - first:
+      4: 400064
+    second: ELEPHANT_ R Forearm
+  - first:
+      4: 400066
+    second: ELEPHANT_ R Hand
+  - first:
+      4: 400068
+    second: ELEPHANT_ R Thigh
+  - first:
+      4: 400070
+    second: ELEPHANT_ R UpperArm
+  - first:
+      4: 400072
+    second: ELEPHANT_ Spine
+  - first:
+      4: 400074
+    second: ELEPHANT_ Spine1
+  - first:
+      4: 400076
+    second: ELEPHANT_ Tail
+  - first:
+      4: 400078
+    second: ELEPHANT_ Tail1
+  - first:
+      4: 400080
+    second: ELEPHANT_ Tail2
+  - first:
+      4: 400082
+    second: ELEPHANT_ Tail3
+  - first:
+      4: 400084
+    second: ELEPHANT_ Tail4
+  - first:
+      4: 400086
+    second: ELEPHANT_ Tail5
+  - first:
+      4: 400088
+    second: ELEPHANT_ Tail6
+  - first:
+      4: 400090
+    second: ELEPHANT_ear_L_1
+  - first:
+      4: 400092
+    second: ELEPHANt_ear_L_2
+  - first:
+      4: 400094
+    second: ELEPHANt_ear_R_1
+  - first:
+      4: 400096
+    second: ELEPHANT_ear_R_2
+  - first:
+      4: 400098
+    second: root
+  - first:
+      4: 400100
+    second: SK_Elephant_LOD0
+  - first:
+      4: 400102
+    second: SK_Elephant_LOD1
+  - first:
+      4: 400104
+    second: SK_TusksBig_LOD0
+  - first:
+      4: 400106
+    second: SK_TusksBig_LOD1
+  - first:
+      4: 400108
+    second: SK_TusksBig_LOD2
+  - first:
+      4: 400110
+    second: SK_TusksMedium_LOD0
+  - first:
+      4: 400112
+    second: SK_TusksMedium_LOD1
+  - first:
+      4: 400114
+    second: SK_TusksMedium_LOD2
+  - first:
+      4: 400116
+    second: SK_TusksSmall_LOD0
+  - first:
+      43: 4300000
+    second: SK_Elephant_LOD0
+  - first:
+      43: 4300002
+    second: SK_TusksBig_LOD0
+  - first:
+      43: 4300004
+    second: SK_TusksBig_LOD1
+  - first:
+      43: 4300006
+    second: SK_TusksBig_LOD2
+  - first:
+      43: 4300008
+    second: SK_TusksMedium_LOD0
+  - first:
+      43: 4300010
+    second: SK_TusksMedium_LOD1
+  - first:
+      43: 4300012
+    second: SK_TusksMedium_LOD2
+  - first:
+      43: 4300014
+    second: SK_TusksSmall_LOD0
+  - first:
+      43: 4300016
+    second: SK_Elephant_LOD1
+  - first:
+      74: 7400000
+    second: Take 001
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: SK_Elephant_LOD0
+  - first:
+      137: 13700002
+    second: SK_Elephant_LOD1
+  - first:
+      137: 13700004
+    second: SK_TusksBig_LOD0
+  - first:
+      137: 13700006
+    second: SK_TusksBig_LOD1
+  - first:
+      137: 13700008
+    second: SK_TusksBig_LOD2
+  - first:
+      137: 13700010
+    second: SK_TusksMedium_LOD0
+  - first:
+      137: 13700012
+    second: SK_TusksMedium_LOD1
+  - first:
+      137: 13700014
+    second: SK_TusksMedium_LOD2
+  - first:
+      137: 13700016
+    second: SK_TusksSmall_LOD0
+  - first:
+      205: 20500000
+    second: //RootNode
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.01
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips:
+  - e3d61a6c4c02eb5448cfe63b8a5e66ee
+  - d4c006db2b8697f4584847af9c350d6d
+  - 80986a94e05dbe345af7121cf1020f92
+  - 5d9f93484c745304e920abd85b271d78
+  - 31b617f9139522a40906d1e64cb3a7f6
+  - 2e7e9ce2e43ef0e4582d5c784386ce57
+  - 374f6b075fff6694096a932aaf45c3ce
+  - 9d8c411b448089e499052918e2722002
+  - bdd15dc3d7541774eadbbf5e26046eb9
+  - 3c8dc72ac1a36d74abd192598ed6fe69
+  - d2e467f15db9adc4ead35bd90cd402cc
+  - a717906de4195d2469f4b7e83bbe99c3
+  - 8cd384ffb14d38145b06d821e3fea790
+  - ceb88a33c6f7d8c46afe66c4573b6a22
+  - 409b593f877faab47aabf158904b5914
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: root
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
