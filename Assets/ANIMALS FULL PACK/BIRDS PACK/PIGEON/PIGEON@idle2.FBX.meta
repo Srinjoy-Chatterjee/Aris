@@ -1,0 +1,138 @@
+fileFormatVersion: 2
+guid: 2c3f70b6c8fe46c44a109caca709c8dc
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: PIGEON_
+    100004: PIGEON_ Footsteps
+    100006: PIGEON_ Head
+    100008: PIGEON_ L Calf
+    100010: PIGEON_ L Clavicle
+    100012: PIGEON_ L Foot
+    100014: PIGEON_ L Forearm
+    100016: PIGEON_ L Hand
+    100018: PIGEON_ L HorseLink
+    100020: PIGEON_ L Thigh
+    100022: PIGEON_ L Toe0
+    100024: PIGEON_ L Toe01
+    100026: PIGEON_ L Toe02
+    100028: PIGEON_ L Toe1
+    100030: PIGEON_ L Toe11
+    100032: PIGEON_ L Toe12
+    100034: PIGEON_ L UpperArm
+    100036: PIGEON_ Neck
+    100038: PIGEON_ Pelvis
+    100040: PIGEON_ Queue de cheval 1
+    100042: PIGEON_ R Calf
+    100044: PIGEON_ R Clavicle
+    100046: PIGEON_ R Foot
+    100048: PIGEON_ R Forearm
+    100050: PIGEON_ R Hand
+    100052: PIGEON_ R HorseLink
+    100054: PIGEON_ R Thigh
+    100056: PIGEON_ R Toe0
+    100058: PIGEON_ R Toe01
+    100060: PIGEON_ R Toe02
+    100062: PIGEON_ R Toe1
+    100064: PIGEON_ R Toe11
+    100066: PIGEON_ R Toe12
+    100068: PIGEON_ R UpperArm
+    100070: PIGEON_ Spine
+    100072: PIGEON_ Tail
+    100074: PIGEON_ TailL
+    100076: PIGEON_ TailR
+    400000: //RootNode
+    400002: PIGEON_
+    400004: PIGEON_ Footsteps
+    400006: PIGEON_ Head
+    400008: PIGEON_ L Calf
+    400010: PIGEON_ L Clavicle
+    400012: PIGEON_ L Foot
+    400014: PIGEON_ L Forearm
+    400016: PIGEON_ L Hand
+    400018: PIGEON_ L HorseLink
+    400020: PIGEON_ L Thigh
+    400022: PIGEON_ L Toe0
+    400024: PIGEON_ L Toe01
+    400026: PIGEON_ L Toe02
+    400028: PIGEON_ L Toe1
+    400030: PIGEON_ L Toe11
+    400032: PIGEON_ L Toe12
+    400034: PIGEON_ L UpperArm
+    400036: PIGEON_ Neck
+    400038: PIGEON_ Pelvis
+    400040: PIGEON_ Queue de cheval 1
+    400042: PIGEON_ R Calf
+    400044: PIGEON_ R Clavicle
+    400046: PIGEON_ R Foot
+    400048: PIGEON_ R Forearm
+    400050: PIGEON_ R Hand
+    400052: PIGEON_ R HorseLink
+    400054: PIGEON_ R Thigh
+    400056: PIGEON_ R Toe0
+    400058: PIGEON_ R Toe01
+    400060: PIGEON_ R Toe02
+    400062: PIGEON_ R Toe1
+    400064: PIGEON_ R Toe11
+    400066: PIGEON_ R Toe12
+    400068: PIGEON_ R UpperArm
+    400070: PIGEON_ Spine
+    400072: PIGEON_ Tail
+    400074: PIGEON_ TailL
+    400076: PIGEON_ TailR
+    7400000: Take 001
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

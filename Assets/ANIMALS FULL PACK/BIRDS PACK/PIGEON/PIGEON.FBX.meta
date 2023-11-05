@@ -1,0 +1,374 @@
+fileFormatVersion: 2
+guid: 031f94924221fdc4eb2b6282833e3c73
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: PIGEON
+  - first:
+      1: 100004
+    second: PIGEON_
+  - first:
+      1: 100006
+    second: PIGEON_ Footsteps
+  - first:
+      1: 100008
+    second: PIGEON_ Head
+  - first:
+      1: 100010
+    second: PIGEON_ L Calf
+  - first:
+      1: 100012
+    second: PIGEON_ L Clavicle
+  - first:
+      1: 100014
+    second: PIGEON_ L Foot
+  - first:
+      1: 100016
+    second: PIGEON_ L Forearm
+  - first:
+      1: 100018
+    second: PIGEON_ L Hand
+  - first:
+      1: 100020
+    second: PIGEON_ L HorseLink
+  - first:
+      1: 100022
+    second: PIGEON_ L Thigh
+  - first:
+      1: 100024
+    second: PIGEON_ L Toe0
+  - first:
+      1: 100026
+    second: PIGEON_ L Toe01
+  - first:
+      1: 100028
+    second: PIGEON_ L Toe02
+  - first:
+      1: 100030
+    second: PIGEON_ L Toe1
+  - first:
+      1: 100032
+    second: PIGEON_ L Toe11
+  - first:
+      1: 100034
+    second: PIGEON_ L Toe12
+  - first:
+      1: 100036
+    second: PIGEON_ L UpperArm
+  - first:
+      1: 100038
+    second: PIGEON_ Neck
+  - first:
+      1: 100040
+    second: PIGEON_ Pelvis
+  - first:
+      1: 100042
+    second: PIGEON_ Queue de cheval 1
+  - first:
+      1: 100044
+    second: PIGEON_ R Calf
+  - first:
+      1: 100046
+    second: PIGEON_ R Clavicle
+  - first:
+      1: 100048
+    second: PIGEON_ R Foot
+  - first:
+      1: 100050
+    second: PIGEON_ R Forearm
+  - first:
+      1: 100052
+    second: PIGEON_ R Hand
+  - first:
+      1: 100054
+    second: PIGEON_ R HorseLink
+  - first:
+      1: 100056
+    second: PIGEON_ R Thigh
+  - first:
+      1: 100058
+    second: PIGEON_ R Toe0
+  - first:
+      1: 100060
+    second: PIGEON_ R Toe01
+  - first:
+      1: 100062
+    second: PIGEON_ R Toe02
+  - first:
+      1: 100064
+    second: PIGEON_ R Toe1
+  - first:
+      1: 100066
+    second: PIGEON_ R Toe11
+  - first:
+      1: 100068
+    second: PIGEON_ R Toe12
+  - first:
+      1: 100070
+    second: PIGEON_ R UpperArm
+  - first:
+      1: 100072
+    second: PIGEON_ Spine
+  - first:
+      1: 100074
+    second: PIGEON_ Tail
+  - first:
+      1: 100076
+    second: PIGEON_ TailL
+  - first:
+      1: 100078
+    second: PIGEON_ TailR
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: PIGEON
+  - first:
+      4: 400004
+    second: PIGEON_
+  - first:
+      4: 400006
+    second: PIGEON_ Footsteps
+  - first:
+      4: 400008
+    second: PIGEON_ Head
+  - first:
+      4: 400010
+    second: PIGEON_ L Calf
+  - first:
+      4: 400012
+    second: PIGEON_ L Clavicle
+  - first:
+      4: 400014
+    second: PIGEON_ L Foot
+  - first:
+      4: 400016
+    second: PIGEON_ L Forearm
+  - first:
+      4: 400018
+    second: PIGEON_ L Hand
+  - first:
+      4: 400020
+    second: PIGEON_ L HorseLink
+  - first:
+      4: 400022
+    second: PIGEON_ L Thigh
+  - first:
+      4: 400024
+    second: PIGEON_ L Toe0
+  - first:
+      4: 400026
+    second: PIGEON_ L Toe01
+  - first:
+      4: 400028
+    second: PIGEON_ L Toe02
+  - first:
+      4: 400030
+    second: PIGEON_ L Toe1
+  - first:
+      4: 400032
+    second: PIGEON_ L Toe11
+  - first:
+      4: 400034
+    second: PIGEON_ L Toe12
+  - first:
+      4: 400036
+    second: PIGEON_ L UpperArm
+  - first:
+      4: 400038
+    second: PIGEON_ Neck
+  - first:
+      4: 400040
+    second: PIGEON_ Pelvis
+  - first:
+      4: 400042
+    second: PIGEON_ Queue de cheval 1
+  - first:
+      4: 400044
+    second: PIGEON_ R Calf
+  - first:
+      4: 400046
+    second: PIGEON_ R Clavicle
+  - first:
+      4: 400048
+    second: PIGEON_ R Foot
+  - first:
+      4: 400050
+    second: PIGEON_ R Forearm
+  - first:
+      4: 400052
+    second: PIGEON_ R Hand
+  - first:
+      4: 400054
+    second: PIGEON_ R HorseLink
+  - first:
+      4: 400056
+    second: PIGEON_ R Thigh
+  - first:
+      4: 400058
+    second: PIGEON_ R Toe0
+  - first:
+      4: 400060
+    second: PIGEON_ R Toe01
+  - first:
+      4: 400062
+    second: PIGEON_ R Toe02
+  - first:
+      4: 400064
+    second: PIGEON_ R Toe1
+  - first:
+      4: 400066
+    second: PIGEON_ R Toe11
+  - first:
+      4: 400068
+    second: PIGEON_ R Toe12
+  - first:
+      4: 400070
+    second: PIGEON_ R UpperArm
+  - first:
+      4: 400072
+    second: PIGEON_ Spine
+  - first:
+      4: 400074
+    second: PIGEON_ Tail
+  - first:
+      4: 400076
+    second: PIGEON_ TailL
+  - first:
+      4: 400078
+    second: PIGEON_ TailR
+  - first:
+      43: 4300000
+    second: PIGEON
+  - first:
+      74: 7400000
+    second: Take 001
+  - first:
+      111: 11100000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: PIGEON
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips:
+  - 57ce9d1c2ca2eb54eb6355ea26ef7c64
+  - 8f9b65b6ca8c0df4d9d913b0848d198c
+  - d516f929f536aea4a853c393fd9a1359
+  - f056f92dbf87059478d563039a41c3a7
+  - 2b5c5e8721047b7459e44cb3d3fde99a
+  - ec472e472638e864698e1d639dbdaa87
+  - 741b42713d5c7244b8de093b21eec493
+  - 2c3f70b6c8fe46c44a109caca709c8dc
+  - aeb92ff504b530c4aa66f7e70848d7a2
+  - b3b580b30f382204cb48b63746065115
+  - 4515f56542c734e4b821ba8b95d143bd
+  - 326ac0607af62f941b1e16201def96ad
+  - 7f7478a59cfb0594889641fc91dffa10
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.01
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 1
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,138 @@
+fileFormatVersion: 2
+guid: 7d5b7a3724a30e243bffe57e0f8f53e5
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: CROW_ TailL
+    100002: CROW_ TailR
+    100004: //RootNode
+    100006: EAGLE_
+    100008: EAGLE_ Head
+    100010: EAGLE_ L Calf
+    100012: EAGLE_ L Clavicle
+    100014: EAGLE_ L Foot
+    100016: EAGLE_ L Forearm
+    100018: EAGLE_ L Hand
+    100020: EAGLE_ L HorseLink
+    100022: EAGLE_ L Thigh
+    100024: EAGLE_ L Toe0
+    100026: EAGLE_ L Toe01
+    100028: EAGLE_ L Toe02
+    100030: EAGLE_ L Toe1
+    100032: EAGLE_ L Toe11
+    100034: EAGLE_ L Toe12
+    100036: EAGLE_ L UpperArm
+    100038: EAGLE_ Neck
+    100040: EAGLE_ Neck1
+    100042: EAGLE_ Pelvis
+    100044: EAGLE_ Queue de cheval 1
+    100046: EAGLE_ R Calf
+    100048: EAGLE_ R Clavicle
+    100050: EAGLE_ R Foot
+    100052: EAGLE_ R Forearm
+    100054: EAGLE_ R Hand
+    100056: EAGLE_ R HorseLink
+    100058: EAGLE_ R Thigh
+    100060: EAGLE_ R Toe0
+    100062: EAGLE_ R Toe01
+    100064: EAGLE_ R Toe02
+    100066: EAGLE_ R Toe1
+    100068: EAGLE_ R Toe11
+    100070: EAGLE_ R Toe12
+    100072: EAGLE_ R UpperArm
+    100074: EAGLE_ Spine
+    100076: EAGLE_ Tail
+    400000: CROW_ TailL
+    400002: CROW_ TailR
+    400004: //RootNode
+    400006: EAGLE_
+    400008: EAGLE_ Head
+    400010: EAGLE_ L Calf
+    400012: EAGLE_ L Clavicle
+    400014: EAGLE_ L Foot
+    400016: EAGLE_ L Forearm
+    400018: EAGLE_ L Hand
+    400020: EAGLE_ L HorseLink
+    400022: EAGLE_ L Thigh
+    400024: EAGLE_ L Toe0
+    400026: EAGLE_ L Toe01
+    400028: EAGLE_ L Toe02
+    400030: EAGLE_ L Toe1
+    400032: EAGLE_ L Toe11
+    400034: EAGLE_ L Toe12
+    400036: EAGLE_ L UpperArm
+    400038: EAGLE_ Neck
+    400040: EAGLE_ Neck1
+    400042: EAGLE_ Pelvis
+    400044: EAGLE_ Queue de cheval 1
+    400046: EAGLE_ R Calf
+    400048: EAGLE_ R Clavicle
+    400050: EAGLE_ R Foot
+    400052: EAGLE_ R Forearm
+    400054: EAGLE_ R Hand
+    400056: EAGLE_ R HorseLink
+    400058: EAGLE_ R Thigh
+    400060: EAGLE_ R Toe0
+    400062: EAGLE_ R Toe01
+    400064: EAGLE_ R Toe02
+    400066: EAGLE_ R Toe1
+    400068: EAGLE_ R Toe11
+    400070: EAGLE_ R Toe12
+    400072: EAGLE_ R UpperArm
+    400074: EAGLE_ Spine
+    400076: EAGLE_ Tail
+    7400000: Take 001
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
