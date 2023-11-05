@@ -1,0 +1,425 @@
+fileFormatVersion: 2
+guid: f6a7110410988e84a9ae0795a6a936ed
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: ' 1'
+  - first:
+      1: 100002
+    second: //RootNode
+  - first:
+      1: 100004
+    second: BEAR_
+  - first:
+      1: 100006
+    second: BEAR_ Footsteps
+  - first:
+      1: 100008
+    second: BEAR_ Head
+  - first:
+      1: 100010
+    second: BEAR_ L Calf
+  - first:
+      1: 100012
+    second: BEAR_ L Clavicle
+  - first:
+      1: 100014
+    second: BEAR_ L Finger0
+  - first:
+      1: 100016
+    second: BEAR_ L Finger01
+  - first:
+      1: 100018
+    second: BEAR_ L Foot
+  - first:
+      1: 100020
+    second: BEAR_ L Forearm
+  - first:
+      1: 100022
+    second: BEAR_ L Hand
+  - first:
+      1: 100024
+    second: BEAR_ L Thigh
+  - first:
+      1: 100026
+    second: BEAR_ L Toe0
+  - first:
+      1: 100028
+    second: BEAR_ L Toe01
+  - first:
+      1: 100030
+    second: BEAR_ L Toe02
+  - first:
+      1: 100032
+    second: BEAR_ L UpperArm
+  - first:
+      1: 100034
+    second: BEAR_ Neck
+  - first:
+      1: 100036
+    second: BEAR_ Neck1
+  - first:
+      1: 100038
+    second: BEAR_ Pelvis
+  - first:
+      1: 100040
+    second: BEAR_ Queue de cheval 1
+  - first:
+      1: 100042
+    second: BEAR_ R Calf
+  - first:
+      1: 100044
+    second: BEAR_ R Clavicle
+  - first:
+      1: 100046
+    second: BEAR_ R Finger0
+  - first:
+      1: 100048
+    second: BEAR_ R Finger01
+  - first:
+      1: 100050
+    second: BEAR_ R Foot
+  - first:
+      1: 100052
+    second: BEAR_ R Forearm
+  - first:
+      1: 100054
+    second: BEAR_ R Hand
+  - first:
+      1: 100056
+    second: BEAR_ R Thigh
+  - first:
+      1: 100058
+    second: BEAR_ R Toe0
+  - first:
+      1: 100060
+    second: BEAR_ R Toe01
+  - first:
+      1: 100062
+    second: BEAR_ R Toe02
+  - first:
+      1: 100064
+    second: BEAR_ R UpperArm
+  - first:
+      1: 100066
+    second: BEAR_ Spine
+  - first:
+      1: 100068
+    second: BEAR_ Spine1
+  - first:
+      1: 100070
+    second: root
+  - first:
+      1: 100072
+    second: Bear
+  - first:
+      1: 100074
+    second: Bear_LOD0
+  - first:
+      1: 100076
+    second: Bear_LOD1
+  - first:
+      1: 100078
+    second: Bear_LOD2
+  - first:
+      1: 100080
+    second: Bear_LOD3
+  - first:
+      4: 400000
+    second: ' 1'
+  - first:
+      4: 400002
+    second: //RootNode
+  - first:
+      4: 400004
+    second: BEAR_
+  - first:
+      4: 400006
+    second: BEAR_ Footsteps
+  - first:
+      4: 400008
+    second: BEAR_ Head
+  - first:
+      4: 400010
+    second: BEAR_ L Calf
+  - first:
+      4: 400012
+    second: BEAR_ L Clavicle
+  - first:
+      4: 400014
+    second: BEAR_ L Finger0
+  - first:
+      4: 400016
+    second: BEAR_ L Finger01
+  - first:
+      4: 400018
+    second: BEAR_ L Foot
+  - first:
+      4: 400020
+    second: BEAR_ L Forearm
+  - first:
+      4: 400022
+    second: BEAR_ L Hand
+  - first:
+      4: 400024
+    second: BEAR_ L Thigh
+  - first:
+      4: 400026
+    second: BEAR_ L Toe0
+  - first:
+      4: 400028
+    second: BEAR_ L Toe01
+  - first:
+      4: 400030
+    second: BEAR_ L Toe02
+  - first:
+      4: 400032
+    second: BEAR_ L UpperArm
+  - first:
+      4: 400034
+    second: BEAR_ Neck
+  - first:
+      4: 400036
+    second: BEAR_ Neck1
+  - first:
+      4: 400038
+    second: BEAR_ Pelvis
+  - first:
+      4: 400040
+    second: BEAR_ Queue de cheval 1
+  - first:
+      4: 400042
+    second: BEAR_ R Calf
+  - first:
+      4: 400044
+    second: BEAR_ R Clavicle
+  - first:
+      4: 400046
+    second: BEAR_ R Finger0
+  - first:
+      4: 400048
+    second: BEAR_ R Finger01
+  - first:
+      4: 400050
+    second: BEAR_ R Foot
+  - first:
+      4: 400052
+    second: BEAR_ R Forearm
+  - first:
+      4: 400054
+    second: BEAR_ R Hand
+  - first:
+      4: 400056
+    second: BEAR_ R Thigh
+  - first:
+      4: 400058
+    second: BEAR_ R Toe0
+  - first:
+      4: 400060
+    second: BEAR_ R Toe01
+  - first:
+      4: 400062
+    second: BEAR_ R Toe02
+  - first:
+      4: 400064
+    second: BEAR_ R UpperArm
+  - first:
+      4: 400066
+    second: BEAR_ Spine
+  - first:
+      4: 400068
+    second: BEAR_ Spine1
+  - first:
+      4: 400070
+    second: root
+  - first:
+      4: 400072
+    second: Bear
+  - first:
+      4: 400074
+    second: Bear_LOD0
+  - first:
+      4: 400076
+    second: Bear_LOD1
+  - first:
+      4: 400078
+    second: Bear_LOD2
+  - first:
+      4: 400080
+    second: Bear_LOD3
+  - first:
+      43: 4300000
+    second: Bear
+  - first:
+      43: 4300002
+    second: Bear_LOD0
+  - first:
+      43: 4300004
+    second: Bear_LOD1
+  - first:
+      43: 4300006
+    second: Bear_LOD2
+  - first:
+      43: 4300008
+    second: Bear_LOD3
+  - first:
+      74: 7400000
+    second: Take 001
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: ' 1'
+  - first:
+      137: 13700002
+    second: Bear
+  - first:
+      137: 13700004
+    second: Bear_LOD0
+  - first:
+      137: 13700006
+    second: Bear_LOD1
+  - first:
+      137: 13700008
+    second: Bear_LOD2
+  - first:
+      137: 13700010
+    second: Bear_LOD3
+  - first:
+      205: 20500000
+    second: //RootNode
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.0625
+    - 0.01
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips:
+  - 3070b430a5d4179428ab2d5664210f28
+  - 77021a955daaa4a4d95c1c2c7f17c073
+  - e3a9493b5b40ae541a57cefd03a108f3
+  - c6a2e3b1ed072914d98fdf04c5433ba6
+  - c656bc5ed27b7964585562c07a2affdd
+  - 59e96f7d7fabaee49b1b151483604d7b
+  - 224ab39a31b53494ab4827fe124843d2
+  - 27514ab293e2c114ab489c92f6a94cc5
+  - 28099b50893200442840181d4f56d326
+  - e865ff2f692441943a6096b6a174aa75
+  - b294b7d7a1c7a4b4a8647dba359f186d
+  - 87c708caec8cc784f8b05527689dbd20
+  - 9a8a48b58f1bbef4ead3e8243caf1023
+  - 6b084c4ecf4ae2849a64c5baffc09c69
+  - a0fab90ba6a6e2e4ea508dbce8b3c389
+  - 155a349a5f5d5cf4884b19fa09516ef1
+  - a9466a01ca8de424a82c1e65dd15f989
+  - 8ea3326158aaae54b9dcfcfa036aa73f
+  - c60fff1d7338684439f1a8fd32fc04dd
+  - 4a1000ea1cbdb04449496f7b0ad76432
+  - 3e86a725565be8543bd74c64a1c729a0
+  - da0d210f0a3efb247a93c97b4b91d071
+  - a4380befe3db3a5428848a2c541f9376
+  - fa6be13ef46c01f47831274cce461a9b
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: root
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

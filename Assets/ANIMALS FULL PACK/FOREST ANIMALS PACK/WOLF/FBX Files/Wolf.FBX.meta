@@ -1,0 +1,409 @@
+fileFormatVersion: 2
+guid: c08611f9aab474f44847a80a778283ba
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: root
+  - first:
+      1: 100002
+    second: SK_Wolf
+  - first:
+      1: 100004
+    second: //RootNode
+  - first:
+      1: 100006
+    second: Wolf_
+  - first:
+      1: 100008
+    second: Wolf_ Head
+  - first:
+      1: 100010
+    second: Wolf_ L Calf
+  - first:
+      1: 100012
+    second: Wolf_ L Clavicle
+  - first:
+      1: 100014
+    second: Wolf_ L Finger0
+  - first:
+      1: 100016
+    second: Wolf_ L Foot
+  - first:
+      1: 100018
+    second: Wolf_ L Forearm
+  - first:
+      1: 100020
+    second: Wolf_ L Hand
+  - first:
+      1: 100022
+    second: Wolf_ L HorseLink
+  - first:
+      1: 100024
+    second: Wolf_ L Thigh
+  - first:
+      1: 100026
+    second: Wolf_ L UpperArm
+  - first:
+      1: 100028
+    second: Wolf_ Neck
+  - first:
+      1: 100030
+    second: Wolf_ Neck1
+  - first:
+      1: 100032
+    second: Wolf_ Neck2
+  - first:
+      1: 100034
+    second: Wolf_ Pelvis
+  - first:
+      1: 100036
+    second: Wolf_ Ponytail1
+  - first:
+      1: 100038
+    second: Wolf_ R Calf
+  - first:
+      1: 100040
+    second: Wolf_ R Clavicle
+  - first:
+      1: 100042
+    second: Wolf_ R Finger0
+  - first:
+      1: 100044
+    second: Wolf_ R Foot
+  - first:
+      1: 100046
+    second: Wolf_ R Forearm
+  - first:
+      1: 100048
+    second: Wolf_ R Hand
+  - first:
+      1: 100050
+    second: Wolf_ R HorseLink
+  - first:
+      1: 100052
+    second: Wolf_ R Thigh
+  - first:
+      1: 100054
+    second: Wolf_ R UpperArm
+  - first:
+      1: 100056
+    second: Wolf_ Spine
+  - first:
+      1: 100058
+    second: Wolf_ Spine1
+  - first:
+      1: 100060
+    second: Wolf_ Tail
+  - first:
+      1: 100062
+    second: Wolf_ Tail1
+  - first:
+      1: 100064
+    second: Wolf_ Tail2
+  - first:
+      1: 100066
+    second: Wolf_ Tail3
+  - first:
+      1: 100068
+    second: Wolf_ Tail4
+  - first:
+      1: 100070
+    second: Wolf_ Tail5
+  - first:
+      1: 100072
+    second: SK_Wolf_LOD0
+  - first:
+      1: 100074
+    second: SK_Wolf_LOD1
+  - first:
+      1: 100076
+    second: SK_Wolf_LOD2
+  - first:
+      1: 100078
+    second: SK_Wolf_LOD3
+  - first:
+      4: 400000
+    second: root
+  - first:
+      4: 400002
+    second: SK_Wolf
+  - first:
+      4: 400004
+    second: //RootNode
+  - first:
+      4: 400006
+    second: Wolf_
+  - first:
+      4: 400008
+    second: Wolf_ Head
+  - first:
+      4: 400010
+    second: Wolf_ L Calf
+  - first:
+      4: 400012
+    second: Wolf_ L Clavicle
+  - first:
+      4: 400014
+    second: Wolf_ L Finger0
+  - first:
+      4: 400016
+    second: Wolf_ L Foot
+  - first:
+      4: 400018
+    second: Wolf_ L Forearm
+  - first:
+      4: 400020
+    second: Wolf_ L Hand
+  - first:
+      4: 400022
+    second: Wolf_ L HorseLink
+  - first:
+      4: 400024
+    second: Wolf_ L Thigh
+  - first:
+      4: 400026
+    second: Wolf_ L UpperArm
+  - first:
+      4: 400028
+    second: Wolf_ Neck
+  - first:
+      4: 400030
+    second: Wolf_ Neck1
+  - first:
+      4: 400032
+    second: Wolf_ Neck2
+  - first:
+      4: 400034
+    second: Wolf_ Pelvis
+  - first:
+      4: 400036
+    second: Wolf_ Ponytail1
+  - first:
+      4: 400038
+    second: Wolf_ R Calf
+  - first:
+      4: 400040
+    second: Wolf_ R Clavicle
+  - first:
+      4: 400042
+    second: Wolf_ R Finger0
+  - first:
+      4: 400044
+    second: Wolf_ R Foot
+  - first:
+      4: 400046
+    second: Wolf_ R Forearm
+  - first:
+      4: 400048
+    second: Wolf_ R Hand
+  - first:
+      4: 400050
+    second: Wolf_ R HorseLink
+  - first:
+      4: 400052
+    second: Wolf_ R Thigh
+  - first:
+      4: 400054
+    second: Wolf_ R UpperArm
+  - first:
+      4: 400056
+    second: Wolf_ Spine
+  - first:
+      4: 400058
+    second: Wolf_ Spine1
+  - first:
+      4: 400060
+    second: Wolf_ Tail
+  - first:
+      4: 400062
+    second: Wolf_ Tail1
+  - first:
+      4: 400064
+    second: Wolf_ Tail2
+  - first:
+      4: 400066
+    second: Wolf_ Tail3
+  - first:
+      4: 400068
+    second: Wolf_ Tail4
+  - first:
+      4: 400070
+    second: Wolf_ Tail5
+  - first:
+      4: 400072
+    second: SK_Wolf_LOD0
+  - first:
+      4: 400074
+    second: SK_Wolf_LOD1
+  - first:
+      4: 400076
+    second: SK_Wolf_LOD2
+  - first:
+      4: 400078
+    second: SK_Wolf_LOD3
+  - first:
+      43: 4300000
+    second: SK_Wolf
+  - first:
+      43: 4300002
+    second: SK_Wolf_LOD0
+  - first:
+      43: 4300004
+    second: SK_Wolf_LOD1
+  - first:
+      43: 4300006
+    second: SK_Wolf_LOD2
+  - first:
+      43: 4300008
+    second: SK_Wolf_LOD3
+  - first:
+      74: 7400000
+    second: Take 001
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: SK_Wolf
+  - first:
+      137: 13700002
+    second: SK_Wolf_LOD0
+  - first:
+      137: 13700004
+    second: SK_Wolf_LOD1
+  - first:
+      137: 13700006
+    second: SK_Wolf_LOD2
+  - first:
+      137: 13700008
+    second: SK_Wolf_LOD3
+  - first:
+      205: 20500000
+    second: //RootNode
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.0625
+    - 0.01
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips:
+  - 056d933c4a2045d4684157a0f776d644
+  - 0c39b8a785bbeb240881cdb2f4571003
+  - 729db9b1e19c7ac4f8602de5b6eb4c60
+  - 7ebf09e966287d14b94e8f08b0e9130d
+  - 37701d6b2e807ec4e83b21b2734d9e12
+  - cbb6c9b545928824380c10ca1bc27d91
+  - cba95338fcf33b7468b3a05a77bf3064
+  - 89033e939464e3e45b3fb21c23faa38f
+  - d81aca7ecf07b6f45a58432cb8f35565
+  - 41b960227cfbbf34193d80cb420f782a
+  - 798570a1da6700c4ebc83b0fea73a4c9
+  - 5250eb05824c3da4294e6e3fe18b2507
+  - 5b5d5933c7319a145af094ecebd6c1ee
+  - 239a61a4bcb00dc4196d963e3a01f8a1
+  - 117a44c75ee81af419b042a4acc4eb4f
+  - 3d1e3c7a1a6268845842d79ebe75acae
+  - 4648bc2ded41a31489d7dc3112b15bc5
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: root
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
