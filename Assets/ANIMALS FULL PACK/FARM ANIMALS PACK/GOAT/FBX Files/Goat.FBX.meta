@@ -1,0 +1,449 @@
+fileFormatVersion: 2
+guid: a5c0a31cdcff2af44bc6a503931e12ba
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: GOAT_
+  - first:
+      1: 100004
+    second: GOAT_ Head
+  - first:
+      1: 100006
+    second: GOAT_ L Calf
+  - first:
+      1: 100008
+    second: GOAT_ L Clavicle
+  - first:
+      1: 100010
+    second: GOAT_ L Finger0
+  - first:
+      1: 100012
+    second: GOAT_ L Foot
+  - first:
+      1: 100014
+    second: GOAT_ L Forearm
+  - first:
+      1: 100016
+    second: GOAT_ L Hand
+  - first:
+      1: 100018
+    second: GOAT_ L HorseLink
+  - first:
+      1: 100020
+    second: GOAT_ L Thigh
+  - first:
+      1: 100022
+    second: GOAT_ L Toe0
+  - first:
+      1: 100024
+    second: GOAT_ L UpperArm
+  - first:
+      1: 100026
+    second: GOAT_ Neck
+  - first:
+      1: 100028
+    second: GOAT_ Neck1
+  - first:
+      1: 100030
+    second: GOAT_ Neck2
+  - first:
+      1: 100032
+    second: GOAT_ Pelvis
+  - first:
+      1: 100034
+    second: GOAT_ Queue de cheval 1
+  - first:
+      1: 100036
+    second: GOAT_ R Calf
+  - first:
+      1: 100038
+    second: GOAT_ R Clavicle
+  - first:
+      1: 100040
+    second: GOAT_ R Finger0
+  - first:
+      1: 100042
+    second: GOAT_ R Foot
+  - first:
+      1: 100044
+    second: GOAT_ R Forearm
+  - first:
+      1: 100046
+    second: GOAT_ R Hand
+  - first:
+      1: 100048
+    second: GOAT_ R HorseLink
+  - first:
+      1: 100050
+    second: GOAT_ R Thigh
+  - first:
+      1: 100052
+    second: GOAT_ R Toe0
+  - first:
+      1: 100054
+    second: GOAT_ R UpperArm
+  - first:
+      1: 100056
+    second: GOAT_ Spine
+  - first:
+      1: 100058
+    second: GOAT_ Spine1
+  - first:
+      1: 100060
+    second: GOAT_ Tail
+  - first:
+      1: 100062
+    second: GOAT_ Tail1
+  - first:
+      1: 100064
+    second: GOAT_ Tail2
+  - first:
+      1: 100066
+    second: goaty_1
+  - first:
+      1: 100068
+    second: goaty_2
+  - first:
+      1: 100070
+    second: goaty_3
+  - first:
+      1: 100072
+    second: nub
+  - first:
+      1: 100074
+    second: nub 1
+  - first:
+      1: 100076
+    second: nub 2
+  - first:
+      1: 100078
+    second: root
+  - first:
+      1: 100080
+    second: SK_Goat
+  - first:
+      1: 100082
+    second: WattleL
+  - first:
+      1: 100084
+    second: WattleR
+  - first:
+      1: 100086
+    second: SK_Goat_LOD0
+  - first:
+      1: 100088
+    second: SK_Goat_LOD1
+  - first:
+      1: 100090
+    second: SK_Goat_LOD2
+  - first:
+      1: 100092
+    second: SK_Goat_LOD3
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: GOAT_
+  - first:
+      4: 400004
+    second: GOAT_ Head
+  - first:
+      4: 400006
+    second: GOAT_ L Calf
+  - first:
+      4: 400008
+    second: GOAT_ L Clavicle
+  - first:
+      4: 400010
+    second: GOAT_ L Finger0
+  - first:
+      4: 400012
+    second: GOAT_ L Foot
+  - first:
+      4: 400014
+    second: GOAT_ L Forearm
+  - first:
+      4: 400016
+    second: GOAT_ L Hand
+  - first:
+      4: 400018
+    second: GOAT_ L HorseLink
+  - first:
+      4: 400020
+    second: GOAT_ L Thigh
+  - first:
+      4: 400022
+    second: GOAT_ L Toe0
+  - first:
+      4: 400024
+    second: GOAT_ L UpperArm
+  - first:
+      4: 400026
+    second: GOAT_ Neck
+  - first:
+      4: 400028
+    second: GOAT_ Neck1
+  - first:
+      4: 400030
+    second: GOAT_ Neck2
+  - first:
+      4: 400032
+    second: GOAT_ Pelvis
+  - first:
+      4: 400034
+    second: GOAT_ Queue de cheval 1
+  - first:
+      4: 400036
+    second: GOAT_ R Calf
+  - first:
+      4: 400038
+    second: GOAT_ R Clavicle
+  - first:
+      4: 400040
+    second: GOAT_ R Finger0
+  - first:
+      4: 400042
+    second: GOAT_ R Foot
+  - first:
+      4: 400044
+    second: GOAT_ R Forearm
+  - first:
+      4: 400046
+    second: GOAT_ R Hand
+  - first:
+      4: 400048
+    second: GOAT_ R HorseLink
+  - first:
+      4: 400050
+    second: GOAT_ R Thigh
+  - first:
+      4: 400052
+    second: GOAT_ R Toe0
+  - first:
+      4: 400054
+    second: GOAT_ R UpperArm
+  - first:
+      4: 400056
+    second: GOAT_ Spine
+  - first:
+      4: 400058
+    second: GOAT_ Spine1
+  - first:
+      4: 400060
+    second: GOAT_ Tail
+  - first:
+      4: 400062
+    second: GOAT_ Tail1
+  - first:
+      4: 400064
+    second: GOAT_ Tail2
+  - first:
+      4: 400066
+    second: goaty_1
+  - first:
+      4: 400068
+    second: goaty_2
+  - first:
+      4: 400070
+    second: goaty_3
+  - first:
+      4: 400072
+    second: nub
+  - first:
+      4: 400074
+    second: nub 1
+  - first:
+      4: 400076
+    second: nub 2
+  - first:
+      4: 400078
+    second: root
+  - first:
+      4: 400080
+    second: SK_Goat
+  - first:
+      4: 400082
+    second: WattleL
+  - first:
+      4: 400084
+    second: WattleR
+  - first:
+      4: 400086
+    second: SK_Goat_LOD0
+  - first:
+      4: 400088
+    second: SK_Goat_LOD1
+  - first:
+      4: 400090
+    second: SK_Goat_LOD2
+  - first:
+      4: 400092
+    second: SK_Goat_LOD3
+  - first:
+      43: 4300000
+    second: SK_Goat
+  - first:
+      43: 4300002
+    second: SK_Goat_LOD0
+  - first:
+      43: 4300004
+    second: SK_Goat_LOD1
+  - first:
+      43: 4300006
+    second: SK_Goat_LOD2
+  - first:
+      43: 4300008
+    second: SK_Goat_LOD3
+  - first:
+      74: 7400000
+    second: Take 001
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: SK_Goat
+  - first:
+      137: 13700002
+    second: SK_Goat_LOD0
+  - first:
+      137: 13700004
+    second: SK_Goat_LOD1
+  - first:
+      137: 13700006
+    second: SK_Goat_LOD2
+  - first:
+      137: 13700008
+    second: SK_Goat_LOD3
+  - first:
+      205: 20500000
+    second: //RootNode
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.0625
+    - 0.01
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips:
+  - ff61cb2856f39f742b297214d65dd8ea
+  - f5fecaa22dc061e489654786f3b4c50c
+  - 7c71c673626d5ae4ba78c8fca5b5d6c9
+  - 9f72cd4ebcf8e3c419056ef4de1dbb87
+  - eedf9d2c6d25c244a841e20dba6591ef
+  - d1c54c9c92341284582aaab01685e602
+  - 8a5f71c28d4354c4e86e87bd7b83a7cb
+  - 28e4d174c283a074684af9fbb26c01f4
+  - 09d00cb9bcec8e14286c09912c7f70e7
+  - 69d1e920e997a3b418e9fffe792d63a3
+  - 8d2f2540ed39c234487bac47b8bc6e72
+  - f44309d789e76574ca1983a0b4719f15
+  - 8a35062f57b2a2446b1bbb30cde597ab
+  - b5225b82a4c7ac14094dde699107a40b
+  - d8eebf4e3759b604c9c2f9f9cb551371
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: root
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

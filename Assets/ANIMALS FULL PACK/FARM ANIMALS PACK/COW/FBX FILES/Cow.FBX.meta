@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 21df316a03f5a184ba7a3aaf725faa40
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: COW_
+  - first:
+      1: 100004
+    second: COW_ Head
+  - first:
+      1: 100006
+    second: COW_ L Calf
+  - first:
+      1: 100008
+    second: COW_ L Clavicle
+  - first:
+      1: 100010
+    second: COW_ L Finger0
+  - first:
+      1: 100012
+    second: COW_ L Foot
+  - first:
+      1: 100014
+    second: COW_ L Forearm
+  - first:
+      1: 100016
+    second: COW_ L Hand
+  - first:
+      1: 100018
+    second: COW_ L HorseLink
+  - first:
+      1: 100020
+    second: COW_ L Thigh
+  - first:
+      1: 100022
+    second: COW_ L UpperArm
+  - first:
+      1: 100024
+    second: COW_ Neck
+  - first:
+      1: 100026
+    second: COW_ Neck1
+  - first:
+      1: 100028
+    second: COW_ Neck2
+  - first:
+      1: 100030
+    second: COW_ Pelvis
+  - first:
+      1: 100032
+    second: COW_ Queue de cheval 1
+  - first:
+      1: 100034
+    second: COW_ R Calf
+  - first:
+      1: 100036
+    second: COW_ R Clavicle
+  - first:
+      1: 100038
+    second: COW_ R Finger0
+  - first:
+      1: 100040
+    second: COW_ R Foot
+  - first:
+      1: 100042
+    second: COW_ R Forearm
+  - first:
+      1: 100044
+    second: COW_ R Hand
+  - first:
+      1: 100046
+    second: COW_ R HorseLink
+  - first:
+      1: 100048
+    second: COW_ R Thigh
+  - first:
+      1: 100050
+    second: COW_ R UpperArm
+  - first:
+      1: 100052
+    second: COW_ Spine
+  - first:
+      1: 100054
+    second: COW_ Spine1
+  - first:
+      1: 100056
+    second: COW_ Tail
+  - first:
+      1: 100058
+    second: COW_ Tail1
+  - first:
+      1: 100060
+    second: COW_ Tail2
+  - first:
+      1: 100062
+    second: COW_ Tail3
+  - first:
+      1: 100064
+    second: COW_ Tail4
+  - first:
+      1: 100066
+    second: COW_ Tail5
+  - first:
+      1: 100068
+    second: COW_ Tail6
+  - first:
+      1: 100070
+    second: root
+  - first:
+      1: 100072
+    second: SK_Cow
+  - first:
+      1: 100074
+    second: Udder_L_1
+  - first:
+      1: 100076
+    second: Udder_L_2
+  - first:
+      1: 100078
+    second: Udder_R_1
+  - first:
+      1: 100080
+    second: Udder_R_2
+  - first:
+      1: 100082
+    second: UdderBase
+  - first:
+      1: 100084
+    second: SK_Cow_LOD0
+  - first:
+      1: 100086
+    second: SK_Cow_LOD1
+  - first:
+      1: 100088
+    second: SK_Cow_LOD2
+  - first:
+      1: 100090
+    second: SK_Cow_LOD3
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: COW_
+  - first:
+      4: 400004
+    second: COW_ Head
+  - first:
+      4: 400006
+    second: COW_ L Calf
+  - first:
+      4: 400008
+    second: COW_ L Clavicle
+  - first:
+      4: 400010
+    second: COW_ L Finger0
+  - first:
+      4: 400012
+    second: COW_ L Foot
+  - first:
+      4: 400014
+    second: COW_ L Forearm
+  - first:
+      4: 400016
+    second: COW_ L Hand
+  - first:
+      4: 400018
+    second: COW_ L HorseLink
+  - first:
+      4: 400020
+    second: COW_ L Thigh
+  - first:
+      4: 400022
+    second: COW_ L UpperArm
+  - first:
+      4: 400024
+    second: COW_ Neck
+  - first:
+      4: 400026
+    second: COW_ Neck1
+  - first:
+      4: 400028
+    second: COW_ Neck2
+  - first:
+      4: 400030
+    second: COW_ Pelvis
+  - first:
+      4: 400032
+    second: COW_ Queue de cheval 1
+  - first:
+      4: 400034
+    second: COW_ R Calf
+  - first:
+      4: 400036
+    second: COW_ R Clavicle
+  - first:
+      4: 400038
+    second: COW_ R Finger0
+  - first:
+      4: 400040
+    second: COW_ R Foot
+  - first:
+      4: 400042
+    second: COW_ R Forearm
+  - first:
+      4: 400044
+    second: COW_ R Hand
+  - first:
+      4: 400046
+    second: COW_ R HorseLink
+  - first:
+      4: 400048
+    second: COW_ R Thigh
+  - first:
+      4: 400050
+    second: COW_ R UpperArm
+  - first:
+      4: 400052
+    second: COW_ Spine
+  - first:
+      4: 400054
+    second: COW_ Spine1
+  - first:
+      4: 400056
+    second: COW_ Tail
+  - first:
+      4: 400058
+    second: COW_ Tail1
+  - first:
+      4: 400060
+    second: COW_ Tail2
+  - first:
+      4: 400062
+    second: COW_ Tail3
+  - first:
+      4: 400064
+    second: COW_ Tail4
+  - first:
+      4: 400066
+    second: COW_ Tail5
+  - first:
+      4: 400068
+    second: COW_ Tail6
+  - first:
+      4: 400070
+    second: root
+  - first:
+      4: 400072
+    second: SK_Cow
+  - first:
+      4: 400074
+    second: Udder_L_1
+  - first:
+      4: 400076
+    second: Udder_L_2
+  - first:
+      4: 400078
+    second: Udder_R_1
+  - first:
+      4: 400080
+    second: Udder_R_2
+  - first:
+      4: 400082
+    second: UdderBase
+  - first:
+      4: 400084
+    second: SK_Cow_LOD0
+  - first:
+      4: 400086
+    second: SK_Cow_LOD1
+  - first:
+      4: 400088
+    second: SK_Cow_LOD2
+  - first:
+      4: 400090
+    second: SK_Cow_LOD3
+  - first:
+      43: 4300000
+    second: SK_Cow
+  - first:
+      43: 4300002
+    second: SK_Cow_LOD0
+  - first:
+      43: 4300004
+    second: SK_Cow_LOD1
+  - first:
+      43: 4300006
+    second: SK_Cow_LOD2
+  - first:
+      43: 4300008
+    second: SK_Cow_LOD3
+  - first:
+      74: 7400000
+    second: Take 001
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: SK_Cow
+  - first:
+      137: 13700002
+    second: SK_Cow_LOD0
+  - first:
+      137: 13700004
+    second: SK_Cow_LOD1
+  - first:
+      137: 13700006
+    second: SK_Cow_LOD2
+  - first:
+      137: 13700008
+    second: SK_Cow_LOD3
+  - first:
+      205: 20500000
+    second: //RootNode
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.0625
+    - 0.01
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips:
+  - a323b10f5b02f3641af37f01ead3921a
+  - a6ecd151373c3d74d8e7ce1bb0bf4ed4
+  - a0c7e3d76e200c242be71e4caffebda5
+  - cd698bd386b625347a573143367b86ca
+  - a43f842dfc339b04ca66d4319c5f0fb2
+  - 4398b7ef5ef76f84881524f61b3e2b8d
+  - ccb8f3b1ab7f92f41902ec50dc4037fc
+  - 13bcabf490859834fb35213b82360afd
+  - 29c8451ef237f8d4395f8f8b274f7cd6
+  - b847df0f04c2cc744802bc2a607c5db2
+  - d424f28533eb27a4580c10147cefe83e
+  - 33f9ddb92526b94459ca04c5378e549f
+  - 3993963a21239564c938f89de325f073
+  - 06da3b310e0b3294cb1c54011c3c5d46
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: root
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
