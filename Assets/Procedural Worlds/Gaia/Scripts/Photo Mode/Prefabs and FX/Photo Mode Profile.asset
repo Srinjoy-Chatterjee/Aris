@@ -12,12 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 63b6a4592fcba78438bc28f2c8a0e923, type: 3}
   m_Name: Photo Mode Profile
   m_EditorClassIdentifier: 
-  m_everBeenSaved: 0
-  LastRenderPipeline: 3
+  m_everBeenSaved: 1
+  LastRenderPipeline: 2
   m_profile:
-    m_isUsingGaiaLighting: 0
-    m_selectedGaiaLightingProfile: -1
-    m_lastSceneName: OutdoorsScene
+    m_isUsingGaiaLighting: 1
+    m_selectedGaiaLightingProfile: 1
+    m_lastSceneName: Test6
     m_screenshotResolution: 0
     m_screenshotImageFormat: 2
     m_loadSavedSettings: 1
@@ -26,9 +26,9 @@ MonoBehaviour:
     m_showReticle: 0
     m_showRuleOfThirds: 0
     m_lodBias: 2
-    m_vSync: 0
+    m_vSync: 1
     m_targetFPS: -1
-    m_antiAliasing: 1
+    m_antiAliasing: 2
     m_shadowDistance: 512
     m_shadowResolution: 3
     m_shadowCascades: 4
@@ -83,7 +83,7 @@ MonoBehaviour:
     m_gaiaUnderwaterFogDensity: 0.045
     m_gaiaUnderwaterFogDistance: 45
     m_gaiaUnderwaterVolume: 0.5
-    m_postFXExposure: 0
+    m_postFXExposure: 13.5
     m_postFXExposureMode: 0
     m_dofActive: 1
     m_autoDOFFocus: 1

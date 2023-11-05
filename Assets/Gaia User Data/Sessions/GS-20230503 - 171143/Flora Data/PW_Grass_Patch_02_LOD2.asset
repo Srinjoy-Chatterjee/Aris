@@ -17,8 +17,8 @@ MonoBehaviour:
   m_mat:
   - {fileID: 5450128247777604781, guid: daf3d13b9e3f7d44898d2d0ea692cc71, type: 2}
   m_sourceDataType: 1
-  m_colorA: {r: 0.28235295, g: 0.2627451, b: 0.10980392, a: 0.53333336}
-  m_colorB: {r: 0.28235295, g: 0.2627451, b: 0.10980392, a: 0.53333336}
+  m_colorA: {r: 1, g: 1, b: 1, a: 0.53333336}
+  m_colorB: {r: 1, g: 1, b: 1, a: 0.53333336}
   m_colorTransition:
     serializedVersion: 2
     m_Curve:
@@ -56,7 +56,7 @@ MonoBehaviour:
   m_ZprimeShader: {fileID: 4800000, guid: a56523f618157ee429388ae00cc5d1ff, type: 3}
   m_shadowMode: 2
   m_randomSeed: 0
-  m_sourceDataIndex: 0
+  m_sourceDataIndex: 2
   m_density: 200
   m_maxJitter: 1
   m_scaleRangeMin: 0.4
@@ -131,5 +131,5 @@ MonoBehaviour:
   m_useSlope: 0
   m_drawCPUSpawnLocations: 0
   m_debugColor: {r: 0.39835626, g: 0.24507894, b: 0.88388264, a: 1}
-  m_debugCellSize: 0.37142858
+  m_debugCellSize: 0.46666667
   m_subCellDivision: 1

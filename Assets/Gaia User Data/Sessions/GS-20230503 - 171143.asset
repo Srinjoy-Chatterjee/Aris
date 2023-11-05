@@ -425,6 +425,138 @@ MonoBehaviour:
     sessionPlaybackState: 1
     m_terrainsFoldedOut: 0
     m_serializedExternalAction: 
+  - m_description: Clearing - Trees Details GOs SpawnExt Probes, AllTerrains, AnySource
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230503 - 171243
+    m_operationDateTime: 11/4/2023 12:38:39 AM
+    scriptableObjectAssetGUID: abab7a96383704f4482636252376b081
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (10)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230503 - 171243
+    m_operationDateTime: 11/4/2023 12:38:59 AM
+    scriptableObjectAssetGUID: dc9b2f3833642874fb21b0bc15f76d67
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing - Trees Details GOs SpawnExt Probes, AllTerrains, AnySource
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230503 - 171243
+    m_operationDateTime: 11/4/2023 12:56:20 AM
+    scriptableObjectAssetGUID: c76101791d739084dba47956025b0651
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (10)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230503 - 171243
+    m_operationDateTime: 11/4/2023 1:01:26 AM
+    scriptableObjectAssetGUID: 583352ab62082324db2cc333d1313c20
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing - Trees Details GOs SpawnExt Probes, AllTerrains, AnySource
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230503 - 171243
+    m_operationDateTime: 11/4/2023 2:22:04 AM
+    scriptableObjectAssetGUID: e828b95f62cb01544897613b7a8dbe26
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (11)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230503 - 171243
+    m_operationDateTime: 11/4/2023 2:22:25 AM
+    scriptableObjectAssetGUID: 9e073170ea6059541a81a09cfc3180d3
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing - Trees Details GOs SpawnExt Probes, AllTerrains, AnySource
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230503 - 171243
+    m_operationDateTime: 11/4/2023 2:36:37 AM
+    scriptableObjectAssetGUID: bbd3dc353d2e68048b4f4fa463813e1c
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (11)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230503 - 171243
+    m_operationDateTime: 11/4/2023 2:36:43 AM
+    scriptableObjectAssetGUID: b89ebd811f840f44ab29a131370763fb
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing - Trees Details GOs SpawnExt Probes, AllTerrains, AnySource
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230503 - 171243
+    m_operationDateTime: 11/4/2023 2:38:27 AM
+    scriptableObjectAssetGUID: b223747137b0a0046b4f4778a8f7fa71
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (10)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230503 - 171243
+    m_operationDateTime: 11/4/2023 2:39:07 AM
+    scriptableObjectAssetGUID: b38cb702919fdd749aba779f4fef6544
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing - Trees Details GOs SpawnExt Probes, AllTerrains, AnySource
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230503 - 171243
+    m_operationDateTime: 11/4/2023 2:50:59 AM
+    scriptableObjectAssetGUID: 85b5a93c8993acd4091db37726757d13
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (10)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230503 - 171243
+    m_operationDateTime: 11/4/2023 2:51:16 AM
+    scriptableObjectAssetGUID: 279592faa66ef5f438d8125d3cf31708
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
   m_terrainMinMaxCache:
   - guid: b3b2ea0d35d20fa4ea54be8a20dfdcda
     isWorldmap: 0
@@ -439,103 +571,85 @@ MonoBehaviour:
   - guid: Worldmap
     isWorldmap: 1
     recalculate: 0
-    min: 61.630733
-    max: 79.182205
+    min: 0
+    max: 0
   m_bakedMaskCacheEntries:
-  - fileName: Terrain_0_0-20230503 - 171243_LayerTree_3584_1
+  - fileName: Terrain_0_0-20230503 - 171243_LayerGameObject_3584_12
     assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230503
-      - 171243/Terrain_0_0-20230503 - 171243_LayerTree_3584_1
-    fullPath: G:/Programs/Unity/Aris/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230503
-      - 171243/Terrain_0_0-20230503 - 171243_LayerTree_3584_1
-    texture: {fileID: 0}
-  - fileName: Terrain_0_0-20230503 - 171243_LayerGameObject_3600_5
-    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230503
-      - 171243/Terrain_0_0-20230503 - 171243_LayerGameObject_3600_5
-    fullPath: G:/Programs/Unity/Aris/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230503
-      - 171243/Terrain_0_0-20230503 - 171243_LayerGameObject_3600_5
-    texture: {fileID: 0}
-  - fileName: Terrain_0_0-20230503 - 171243_LayerGameObject_3600_9
-    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230503
-      - 171243/Terrain_0_0-20230503 - 171243_LayerGameObject_3600_9
-    fullPath: G:/Programs/Unity/Aris/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230503
-      - 171243/Terrain_0_0-20230503 - 171243_LayerGameObject_3600_9
-    texture: {fileID: 0}
-  - fileName: Terrain_0_0-20230503 - 171243_RadiusTag_PW - Prop_3
-    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230503
-      - 171243/Terrain_0_0-20230503 - 171243_RadiusTag_PW - Prop_3
-    fullPath: G:/Programs/Unity/Aris/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230503
-      - 171243/Terrain_0_0-20230503 - 171243_RadiusTag_PW - Prop_3
+      - 171243/Terrain_0_0-20230503 - 171243_LayerGameObject_3584_12
+    fullPath: D:/Unity/Project/Aris/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230503
+      - 171243/Terrain_0_0-20230503 - 171243_LayerGameObject_3584_12
     texture: {fileID: 0}
   - fileName: Terrain_0_0-20230503 - 171243_LayerTree_3584_5
     assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230503
       - 171243/Terrain_0_0-20230503 - 171243_LayerTree_3584_5
-    fullPath: G:/Programs/Unity/Aris/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230503
+    fullPath: D:/Unity/Project/Aris/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230503
       - 171243/Terrain_0_0-20230503 - 171243_LayerTree_3584_5
     texture: {fileID: 0}
-  - fileName: Terrain_0_0-20230503 - 171243_LayerGameObject_1536_5
+  - fileName: Terrain_0_0-20230503 - 171243_LayerGameObject_3600_3
     assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230503
-      - 171243/Terrain_0_0-20230503 - 171243_LayerGameObject_1536_5
-    fullPath: G:/Programs/Unity/Aris/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230503
-      - 171243/Terrain_0_0-20230503 - 171243_LayerGameObject_1536_5
+      - 171243/Terrain_0_0-20230503 - 171243_LayerGameObject_3600_3
+    fullPath: D:/Unity/Project/Aris/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230503
+      - 171243/Terrain_0_0-20230503 - 171243_LayerGameObject_3600_3
     texture: {fileID: 0}
-  - fileName: Terrain_0_0-20230503 - 171243_LayerGameObject_2064_10
+  - fileName: Terrain_0_0-20230503 - 171243_LayerGameObject_3600_4
     assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230503
-      - 171243/Terrain_0_0-20230503 - 171243_LayerGameObject_2064_10
-    fullPath: G:/Programs/Unity/Aris/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230503
-      - 171243/Terrain_0_0-20230503 - 171243_LayerGameObject_2064_10
+      - 171243/Terrain_0_0-20230503 - 171243_LayerGameObject_3600_4
+    fullPath: D:/Unity/Project/Aris/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230503
+      - 171243/Terrain_0_0-20230503 - 171243_LayerGameObject_3600_4
     texture: {fileID: 0}
-  - fileName: Terrain_0_0-20230503 - 171243_LayerTree_3584_2
+  - fileName: Terrain_0_0-20230503 - 171243_LayerTree_3584_-3
     assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230503
-      - 171243/Terrain_0_0-20230503 - 171243_LayerTree_3584_2
-    fullPath: G:/Programs/Unity/Aris/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230503
-      - 171243/Terrain_0_0-20230503 - 171243_LayerTree_3584_2
+      - 171243/Terrain_0_0-20230503 - 171243_LayerTree_3584_-3
+    fullPath: D:/Unity/Project/Aris/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230503
+      - 171243/Terrain_0_0-20230503 - 171243_LayerTree_3584_-3
     texture: {fileID: 0}
-  - fileName: Terrain_0_0-20230503 - 171243_RadiusTree_System.Collections.Generic.List`1[System.Int32]_0.75
+  - fileName: Terrain_0_0-20230503 - 171243_LayerGameObject_3600_5
     assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230503
-      - 171243/Terrain_0_0-20230503 - 171243_RadiusTree_System.Collections.Generic.List`1[System.Int32]_0.75
-    fullPath: G:/Programs/Unity/Aris/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230503
-      - 171243/Terrain_0_0-20230503 - 171243_RadiusTree_System.Collections.Generic.List`1[System.Int32]_0.75
+      - 171243/Terrain_0_0-20230503 - 171243_LayerGameObject_3600_5
+    fullPath: D:/Unity/Project/Aris/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230503
+      - 171243/Terrain_0_0-20230503 - 171243_LayerGameObject_3600_5
     texture: {fileID: 0}
-  - fileName: Terrain_0_0-20230503 - 171243_LayerTree_1536_0
+  - fileName: Terrain_0_0-20230503 - 171243_LayerTree_3584_0
     assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230503
-      - 171243/Terrain_0_0-20230503 - 171243_LayerTree_1536_0
-    fullPath: G:/Programs/Unity/Aris/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230503
-      - 171243/Terrain_0_0-20230503 - 171243_LayerTree_1536_0
+      - 171243/Terrain_0_0-20230503 - 171243_LayerTree_3584_0
+    fullPath: D:/Unity/Project/Aris/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230503
+      - 171243/Terrain_0_0-20230503 - 171243_LayerTree_3584_0
     texture: {fileID: 0}
-  - fileName: Terrain_0_0-20230503 - 171243_LayerTree_2048_0
+  - fileName: Terrain_0_0-20230503 - 171243_LayerGameObject_3600_2
     assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230503
-      - 171243/Terrain_0_0-20230503 - 171243_LayerTree_2048_0
-    fullPath: G:/Programs/Unity/Aris/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230503
-      - 171243/Terrain_0_0-20230503 - 171243_LayerTree_2048_0
+      - 171243/Terrain_0_0-20230503 - 171243_LayerGameObject_3600_2
+    fullPath: D:/Unity/Project/Aris/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230503
+      - 171243/Terrain_0_0-20230503 - 171243_LayerGameObject_3600_2
     texture: {fileID: 0}
-  - fileName: Terrain_0_0-20230503 - 171243_LayerGameObject_2048_5
+  - fileName: Terrain_0_0-20230503 - 171243_LayerTree_3584_-2
     assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230503
-      - 171243/Terrain_0_0-20230503 - 171243_LayerGameObject_2048_5
-    fullPath: G:/Programs/Unity/Aris/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230503
-      - 171243/Terrain_0_0-20230503 - 171243_LayerGameObject_2048_5
+      - 171243/Terrain_0_0-20230503 - 171243_LayerTree_3584_-2
+    fullPath: D:/Unity/Project/Aris/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230503
+      - 171243/Terrain_0_0-20230503 - 171243_LayerTree_3584_-2
     texture: {fileID: 0}
-  - fileName: Terrain_0_0-20230503 - 171243_LayerGameObject_1552_1
+  - fileName: Terrain_0_0-20230503 - 171243_LayerGameObject_512_0.5
     assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230503
-      - 171243/Terrain_0_0-20230503 - 171243_LayerGameObject_1552_1
-    fullPath: G:/Programs/Unity/Aris/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230503
-      - 171243/Terrain_0_0-20230503 - 171243_LayerGameObject_1552_1
+      - 171243/Terrain_0_0-20230503 - 171243_LayerGameObject_512_0.5
+    fullPath: D:/Unity/Project/Aris/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230503
+      - 171243/Terrain_0_0-20230503 - 171243_LayerGameObject_512_0.5
     texture: {fileID: 0}
-  - fileName: Terrain_0_0-20230503 - 171243_LayerTree_0_0
+  - fileName: Terrain_0_0-20230503 - 171243_LayerGameObject_1024_0.75
     assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230503
-      - 171243/Terrain_0_0-20230503 - 171243_LayerTree_0_0
-    fullPath: G:/Programs/Unity/Aris/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230503
-      - 171243/Terrain_0_0-20230503 - 171243_LayerTree_0_0
+      - 171243/Terrain_0_0-20230503 - 171243_LayerGameObject_1024_0.75
+    fullPath: D:/Unity/Project/Aris/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230503
+      - 171243/Terrain_0_0-20230503 - 171243_LayerGameObject_1024_0.75
     texture: {fileID: 0}
-  - fileName: Terrain_0_0-20230503 - 171243_LayerTree_512_0
+  - fileName: Terrain_0_0-20230503 - 171243_LayerGameObject_2048_1
     assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230503
-      - 171243/Terrain_0_0-20230503 - 171243_LayerTree_512_0
-    fullPath: G:/Programs/Unity/Aris/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230503
-      - 171243/Terrain_0_0-20230503 - 171243_LayerTree_512_0
+      - 171243/Terrain_0_0-20230503 - 171243_LayerGameObject_2048_1
+    fullPath: D:/Unity/Project/Aris/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230503
+      - 171243/Terrain_0_0-20230503 - 171243_LayerGameObject_2048_1
     texture: {fileID: 0}
-  - fileName: Terrain_0_0-20230503 - 171243_LayerGameObject_3584_10
+  - fileName: Terrain_0_0-20230503 - 171243_LayerGameObject_16_0
     assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230503
-      - 171243/Terrain_0_0-20230503 - 171243_LayerGameObject_3584_10
-    fullPath: G:/Programs/Unity/Aris/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230503
-      - 171243/Terrain_0_0-20230503 - 171243_LayerGameObject_3584_10
+      - 171243/Terrain_0_0-20230503 - 171243_LayerGameObject_16_0
+    fullPath: D:/Unity/Project/Aris/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230503
+      - 171243/Terrain_0_0-20230503 - 171243_LayerGameObject_16_0
     texture: {fileID: 0}
   m_worldBiomeMaskSettings: {fileID: 0}
