@@ -59,8 +59,8 @@ MonoBehaviour:
   m_sourceDataIndex: -1
   m_density: 128
   m_maxJitter: 1
-  m_scaleRangeMin: 0.15
-  m_scaleRangeMax: 0.25
+  m_scaleRangeMin: 0.3
+  m_scaleRangeMax: 1.2
   m_scaleByAlpha:
     serializedVersion: 2
     m_Curve:

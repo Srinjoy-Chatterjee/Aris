@@ -17,8 +17,8 @@ MonoBehaviour:
   m_mat:
   - {fileID: 2100000, guid: 71d2ccf371797c244a36c9423ce77eb1, type: 2}
   m_sourceDataType: 1
-  m_colorA: {r: 0.7568628, g: 0.9058824, b: 0.6627451, a: 0.05}
-  m_colorB: {r: 0.67231625, g: 0.745283, b: 0.4464667, a: 0.05}
+  m_colorA: {r: 1, g: 1, b: 1, a: 0.05}
+  m_colorB: {r: 1, g: 1, b: 1, a: 0.05}
   m_colorTransition:
     serializedVersion: 2
     m_Curve:
@@ -59,8 +59,8 @@ MonoBehaviour:
   m_sourceDataIndex: -1
   m_density: 128
   m_maxJitter: 1
-  m_scaleRangeMin: 0.5
-  m_scaleRangeMax: 0.75
+  m_scaleRangeMin: 1
+  m_scaleRangeMax: 1.5
   m_scaleByAlpha:
     serializedVersion: 2
     m_Curve:

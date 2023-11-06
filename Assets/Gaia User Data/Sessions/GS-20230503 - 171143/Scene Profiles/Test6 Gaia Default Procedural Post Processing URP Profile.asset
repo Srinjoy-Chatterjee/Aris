@@ -66,16 +66,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 221518ef91623a7438a71fef23660601, type: 3}
   m_Name: WhiteBalance
   m_EditorClassIdentifier: 
-  active: 1
+  active: 0
   m_AdvancedMode: 0
   temperature:
     m_OverrideState: 1
-    m_Value: 5
+    m_Value: 3
     min: -100
     max: 100
   tint:
     m_OverrideState: 1
-    m_Value: -2
+    m_Value: 9
     min: -100
     max: 100
 --- !u!114 &-1810686304675309265
@@ -127,10 +127,10 @@ MonoBehaviour:
     m_Value: {x: 1, y: 1, z: 1, w: 0}
   gamma:
     m_OverrideState: 1
-    m_Value: {x: 1, y: 1, z: 1, w: -0.22979996}
+    m_Value: {x: 1, y: 1, z: 1, w: -0.20234628}
   gain:
     m_OverrideState: 1
-    m_Value: {x: 1, y: 1, z: 1, w: 0.12601925}
+    m_Value: {x: 1, y: 1, z: 1, w: 0.043658227}
 --- !u!114 &-914117920517921920
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -173,7 +173,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3eb4b772797da9440885e8bd939e9560, type: 3}
   m_Name: ColorCurves
   m_EditorClassIdentifier: 
-  active: 0
+  active: 1
   m_AdvancedMode: 0
   master:
     m_OverrideState: 0
@@ -397,7 +397,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d7fd9488000d3734a9e00ee676215985, type: 3}
-  m_Name: Gaia Default Day Post Processing URP
+  m_Name: Gaia Default Procedural Post Processing URP
   m_EditorClassIdentifier: 
   components:
   - {fileID: 2440378501968973489}
@@ -495,7 +495,7 @@ MonoBehaviour:
   m_AdvancedMode: 0
   threshold:
     m_OverrideState: 1
-    m_Value: 1.5
+    m_Value: 1.1
     min: 0
   intensity:
     m_OverrideState: 1
@@ -519,11 +519,6 @@ MonoBehaviour:
   highQualityFiltering:
     m_OverrideState: 1
     m_Value: 1
-  skipIterations:
-    m_OverrideState: 0
-    m_Value: 1
-    min: 0
-    max: 16
   dirtTexture:
     m_OverrideState: 0
     m_Value: {fileID: 2800000, guid: 09cba7a618531d845bb6fd03b1810bc1, type: 3}
@@ -556,7 +551,7 @@ MonoBehaviour:
     m_Value: {x: 0.5, y: 0.5}
   intensity:
     m_OverrideState: 1
-    m_Value: 0.3
+    m_Value: 0.24
     min: 0
     max: 1
   smoothness:
@@ -583,10 +578,10 @@ MonoBehaviour:
   m_AdvancedMode: 0
   postExposure:
     m_OverrideState: 1
-    m_Value: 0
+    m_Value: 0.25
   contrast:
     m_OverrideState: 1
-    m_Value: 10
+    m_Value: 0
     min: -100
     max: 100
   colorFilter:
@@ -602,7 +597,7 @@ MonoBehaviour:
     max: 180
   saturation:
     m_OverrideState: 1
-    m_Value: 15
+    m_Value: 0
     min: -100
     max: 100
 --- !u!114 &4847178672097279951
@@ -780,22 +775,22 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70afe9e12c7a7ed47911bb608a23a8ff, type: 3}
   m_Name: SplitToning
   m_EditorClassIdentifier: 
-  active: 1
+  active: 0
   m_AdvancedMode: 0
   shadows:
-    m_OverrideState: 1
-    m_Value: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
+    m_OverrideState: 0
+    m_Value: {r: 0.5, g: 0.5, b: 0.5, a: 1}
     hdr: 0
     showAlpha: 0
     showEyeDropper: 1
   highlights:
-    m_OverrideState: 1
-    m_Value: {r: 0.9245283, g: 0.9245283, b: 0.9245283, a: 1}
+    m_OverrideState: 0
+    m_Value: {r: 0.5, g: 0.5, b: 0.5, a: 1}
     hdr: 0
     showAlpha: 0
     showEyeDropper: 1
   balance:
-    m_OverrideState: 1
-    m_Value: -5
+    m_OverrideState: 0
+    m_Value: 0
     min: -100
     max: 100

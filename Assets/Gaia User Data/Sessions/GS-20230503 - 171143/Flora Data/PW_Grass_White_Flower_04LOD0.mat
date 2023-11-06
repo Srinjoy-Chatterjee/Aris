@@ -280,8 +280,8 @@ Material:
     - _IridescenceThicknessRemap: {r: 0, g: 1, b: 0, a: 0}
     - _MaskMapMod: {r: 1, g: 1, b: 1, a: 1}
     - _PW_WindTreeFlex: {r: 0.8, g: 1.15, b: 0.1, a: 0}
-    - _PW_WindTreeFrequency: {r: 0.4, g: 1.5, b: 0.33, a: 0}
-    - _PW_WindTreeWidthHeight: {r: 0.4, g: 1.5, b: 0.66, a: 0}
+    - _PW_WindTreeFrequency: {r: 0.8, g: 3, b: 0.33, a: 0}
+    - _PW_WindTreeWidthHeight: {r: 0.8, g: 3, b: 0.66, a: 0}
     - _SSSColor: {r: 1, g: 1, b: 1, a: 0}
     - _SpecularColor: {r: 1, g: 1, b: 1, a: 1}
     - _ThicknessRemap: {r: 0, g: 1, b: 0, a: 0}
