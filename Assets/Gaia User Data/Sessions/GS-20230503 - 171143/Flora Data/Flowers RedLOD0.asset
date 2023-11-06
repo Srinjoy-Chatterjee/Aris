@@ -17,8 +17,8 @@ MonoBehaviour:
   m_mat:
   - {fileID: 2100000, guid: e05eba827c67b3b4d8168d016546a29f, type: 2}
   m_sourceDataType: 1
-  m_colorA: {r: 1, g: 1, b: 1, a: 0.05}
-  m_colorB: {r: 1, g: 1, b: 1, a: 0.05}
+  m_colorA: {r: 0.7843138, g: 0.7843138, b: 0.7843138, a: 0.05}
+  m_colorB: {r: 0.9056604, g: 0.27543443, b: 0.2691349, a: 0.05}
   m_colorTransition:
     serializedVersion: 2
     m_Curve:

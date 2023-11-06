@@ -23,8 +23,7 @@ Material:
   m_Name: PW_Grass_Pink_Flower_01LOD0
   m_Shader: {fileID: -6465566751694194690, guid: 00efb9683d88ef54f91cfd4c0e362b1b,
     type: 3}
-  m_ValidKeywords:
-  - _PW_SF_WIND_ON
+  m_ValidKeywords: []
   m_InvalidKeywords:
   - _DISABLE_DECALS
   - _DISABLE_SSR_TRANSPARENT
