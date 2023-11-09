@@ -10,6 +10,8 @@ Material:
   m_Name: Skirt
   m_Shader: {fileID: -6465566751694194690, guid: 729a3b43766237c4c9f27411eb8ae2d5,
     type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
   - _ALPHATEST_ON
   m_InvalidKeywords: []
@@ -20,6 +22,7 @@ Material:
   stringTagMap:
     RenderType: TransparentCutout
   disabledShaderPasses: []
+  m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
@@ -102,8 +105,10 @@ Material:
     m_Ints: []
     m_Floats:
     - _AlphaClip: 1
+    - _AlphaToMask: 1
     - _Alpha_Clip_Threshold: 0.5
     - _Blend: 0
+    - _BlendModePreserveSpecular: 0
     - _BumpScale: 1
     - _CastShadows: 1
     - _ClearCoatMask: 0
@@ -152,4 +157,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  version: 5
+  version: 7

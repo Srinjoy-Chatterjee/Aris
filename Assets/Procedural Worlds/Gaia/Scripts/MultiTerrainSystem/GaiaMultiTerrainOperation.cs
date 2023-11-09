@@ -190,10 +190,10 @@ namespace Gaia
         public GaiaMultiTerrainOperation(Terrain originTerrain, Transform toolTransform, float range, bool fullTextureQuality = false, List<string> validTerrainNames = null)
         {
             //All operations need to be executed with masterTextureLimit = 0, else there are quality / functional issues in the render texture processing!
-            m_originalMasterTextureLimit = QualitySettings.masterTextureLimit;
+            m_originalMasterTextureLimit = QualitySettings.globalTextureMipmapLimit;
             if (fullTextureQuality)
             {
-                QualitySettings.masterTextureLimit = 0;
+                QualitySettings.globalTextureMipmapLimit = 0;
             }
 
             m_originTerrain = originTerrain;
@@ -2778,7 +2778,7 @@ namespace Gaia
 
             m_terrainsMissingSpawnRules.Clear();
 
-            QualitySettings.masterTextureLimit = m_originalMasterTextureLimit;
+            QualitySettings.globalTextureMipmapLimit = m_originalMasterTextureLimit;
         }
 
 

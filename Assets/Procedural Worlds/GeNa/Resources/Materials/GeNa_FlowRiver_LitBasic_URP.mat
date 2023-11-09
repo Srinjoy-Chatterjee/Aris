@@ -25,7 +25,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  version: 5
+  version: 7
 --- !u!21 &2100000
 Material:
   serializedVersion: 8
@@ -36,6 +36,8 @@ Material:
   m_Name: GeNa_FlowRiver_LitBasic_URP
   m_Shader: {fileID: -6465566751694194690, guid: bea49b04b3832cd43ab42904a92ef7eb,
     type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
   m_InvalidKeywords:
   - _DISABLE_DECALS
@@ -54,6 +56,7 @@ Material:
   - TransparentDepthPostpass
   - TransparentBackface
   - RayTracingPrepass
+  m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
@@ -105,11 +108,23 @@ Material:
         m_Texture: {fileID: 2800000, guid: ad86f7f9cdf718d4dacc75cfc0c4c803, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _FoamAtGround_49b002330558f5869af53a825eabac46_Texture2D923C3E3B_527212021_Texture2D:
+        m_Texture: {fileID: 2800000, guid: ad86f7f9cdf718d4dacc75cfc0c4c803, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _FoamAtGround_49b002330558f5869af53a825eabac46_Texture2DB07E7252_2157066891:
         m_Texture: {fileID: 2800000, guid: e6f9644bcfc3b224fa5b9610f0f25b08, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _FoamAtGround_49b002330558f5869af53a825eabac46_Texture2DB07E7252_2157066891_Texture2D:
+        m_Texture: {fileID: 2800000, guid: e6f9644bcfc3b224fa5b9610f0f25b08, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _FoamAtGround_49b002330558f5869af53a825eabac46_Texture2DDDBC3B01_3715175231:
+        m_Texture: {fileID: 2800000, guid: a0379ff5f06683e4a87d1a76765d1676, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FoamAtGround_49b002330558f5869af53a825eabac46_Texture2DDDBC3B01_3715175231_Texture2D:
         m_Texture: {fileID: 2800000, guid: a0379ff5f06683e4a87d1a76765d1676, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}

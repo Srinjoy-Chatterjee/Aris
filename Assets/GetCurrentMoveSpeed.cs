@@ -9,7 +9,6 @@ public class GetCurrentMoveSpeed : MonoBehaviour
     public NavMeshAgent Agent;
 
     public float Speed => CurrentSpeed;
-
     private void Update()
     {
         CurrentSpeed = Agent.velocity.magnitude;

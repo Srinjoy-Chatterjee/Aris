@@ -9,6 +9,8 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: PW_VFX_Skydome_Clouds_LowAltitud
   m_Shader: {fileID: 4800000, guid: fb1bd27adbce2b64c8a3544bef1f4c19, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
   - _CLOUDSTYPE_MIDDLELEVEL
   - _MASKFROMSHELL_ON
@@ -19,6 +21,7 @@ Material:
   m_CustomRenderQueue: -1
   stringTagMap: {}
   disabledShaderPasses: []
+  m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:

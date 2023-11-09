@@ -191,6 +191,7 @@ MonoBehaviour:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 3
         m_NumAlphaKeys: 2
       TODSkyboxExposure:
@@ -271,6 +272,7 @@ MonoBehaviour:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 7
         m_NumAlphaKeys: 2
       TODFogColor:
@@ -300,6 +302,7 @@ MonoBehaviour:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 8
         m_NumAlphaKeys: 2
       TODAmbientSkyColor:
@@ -329,6 +332,7 @@ MonoBehaviour:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 7
         m_NumAlphaKeys: 2
       TODAmbientEquatorColor:
@@ -358,6 +362,7 @@ MonoBehaviour:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 8
         m_NumAlphaKeys: 2
       TODAmbientGroundColor:
@@ -387,6 +392,7 @@ MonoBehaviour:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 8
         m_NumAlphaKeys: 2
       TODSunIntensity:
@@ -1295,6 +1301,7 @@ MonoBehaviour:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 7
         m_NumAlphaKeys: 2
       TODHDRPFogAlbedo:
@@ -1324,6 +1331,7 @@ MonoBehaviour:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 5
         m_NumAlphaKeys: 2
       TODSunSize:
@@ -1618,6 +1626,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 8
             m_NumAlphaKeys: 2
           m_fogStartDistance:
@@ -1842,6 +1851,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 5
             m_NumAlphaKeys: 2
           m_skyboxAtmosphereThickness:
@@ -1988,6 +1998,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 7
             m_NumAlphaKeys: 2
           m_sunIntensity:
@@ -2197,6 +2208,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 3
             m_NumAlphaKeys: 2
           m_fXBloomIntensity:
@@ -2344,6 +2356,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 7
             m_NumAlphaKeys: 2
           m_ambientEquatorColor:
@@ -2373,6 +2386,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 8
             m_NumAlphaKeys: 2
           m_ambientGroundColor:
@@ -2402,6 +2416,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 8
             m_NumAlphaKeys: 2
           m_chance: 0.7
@@ -2781,6 +2796,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 8
             m_NumAlphaKeys: 2
           m_fogStartDistance:
@@ -3005,6 +3021,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 5
             m_NumAlphaKeys: 2
           m_skyboxAtmosphereThickness:
@@ -3151,6 +3168,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 7
             m_NumAlphaKeys: 2
           m_sunIntensity:
@@ -3360,6 +3378,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 3
             m_NumAlphaKeys: 2
           m_fXBloomIntensity:
@@ -3507,6 +3526,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 7
             m_NumAlphaKeys: 2
           m_ambientEquatorColor:
@@ -3536,6 +3556,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 8
             m_NumAlphaKeys: 2
           m_ambientGroundColor:
@@ -3565,6 +3586,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 8
             m_NumAlphaKeys: 2
           m_chance: 0.65
@@ -4079,6 +4101,7 @@ MonoBehaviour:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 3
         m_NumAlphaKeys: 2
       TODSkyboxExposure:
@@ -4159,6 +4182,7 @@ MonoBehaviour:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 7
         m_NumAlphaKeys: 2
       TODFogColor:
@@ -4188,6 +4212,7 @@ MonoBehaviour:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 8
         m_NumAlphaKeys: 2
       TODAmbientSkyColor:
@@ -4217,6 +4242,7 @@ MonoBehaviour:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 7
         m_NumAlphaKeys: 2
       TODAmbientEquatorColor:
@@ -4246,6 +4272,7 @@ MonoBehaviour:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 8
         m_NumAlphaKeys: 2
       TODAmbientGroundColor:
@@ -4275,6 +4302,7 @@ MonoBehaviour:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 8
         m_NumAlphaKeys: 2
       TODSunIntensity:
@@ -5183,6 +5211,7 @@ MonoBehaviour:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 7
         m_NumAlphaKeys: 2
       TODHDRPFogAlbedo:
@@ -5212,6 +5241,7 @@ MonoBehaviour:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 5
         m_NumAlphaKeys: 2
       TODSunSize:
@@ -5506,6 +5536,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 8
             m_NumAlphaKeys: 2
           m_fogStartDistance:
@@ -5730,6 +5761,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 5
             m_NumAlphaKeys: 2
           m_skyboxAtmosphereThickness:
@@ -5876,6 +5908,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 7
             m_NumAlphaKeys: 2
           m_sunIntensity:
@@ -6085,6 +6118,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 3
             m_NumAlphaKeys: 2
           m_fXBloomIntensity:
@@ -6232,6 +6266,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 7
             m_NumAlphaKeys: 2
           m_ambientEquatorColor:
@@ -6261,6 +6296,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 8
             m_NumAlphaKeys: 2
           m_ambientGroundColor:
@@ -6290,6 +6326,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 8
             m_NumAlphaKeys: 2
           m_chance: 0.7
@@ -6669,6 +6706,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 8
             m_NumAlphaKeys: 2
           m_fogStartDistance:
@@ -6893,6 +6931,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 5
             m_NumAlphaKeys: 2
           m_skyboxAtmosphereThickness:
@@ -7039,6 +7078,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 7
             m_NumAlphaKeys: 2
           m_sunIntensity:
@@ -7248,6 +7288,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 3
             m_NumAlphaKeys: 2
           m_fXBloomIntensity:
@@ -7395,6 +7436,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 7
             m_NumAlphaKeys: 2
           m_ambientEquatorColor:
@@ -7424,6 +7466,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 8
             m_NumAlphaKeys: 2
           m_ambientGroundColor:
@@ -7453,6 +7496,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 8
             m_NumAlphaKeys: 2
           m_chance: 0.65
@@ -7967,6 +8011,7 @@ MonoBehaviour:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 3
         m_NumAlphaKeys: 2
       TODSkyboxExposure:
@@ -8047,6 +8092,7 @@ MonoBehaviour:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 7
         m_NumAlphaKeys: 2
       TODFogColor:
@@ -8076,6 +8122,7 @@ MonoBehaviour:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 8
         m_NumAlphaKeys: 2
       TODAmbientSkyColor:
@@ -8105,6 +8152,7 @@ MonoBehaviour:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 7
         m_NumAlphaKeys: 2
       TODAmbientEquatorColor:
@@ -8134,6 +8182,7 @@ MonoBehaviour:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 8
         m_NumAlphaKeys: 2
       TODAmbientGroundColor:
@@ -8163,6 +8212,7 @@ MonoBehaviour:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 8
         m_NumAlphaKeys: 2
       TODSunIntensity:
@@ -9071,6 +9121,7 @@ MonoBehaviour:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 7
         m_NumAlphaKeys: 2
       TODHDRPFogAlbedo:
@@ -9100,6 +9151,7 @@ MonoBehaviour:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 5
         m_NumAlphaKeys: 2
       TODSunSize:
@@ -9394,6 +9446,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 8
             m_NumAlphaKeys: 2
           m_fogStartDistance:
@@ -9618,6 +9671,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 5
             m_NumAlphaKeys: 2
           m_skyboxAtmosphereThickness:
@@ -9764,6 +9818,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 7
             m_NumAlphaKeys: 2
           m_sunIntensity:
@@ -9973,6 +10028,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 3
             m_NumAlphaKeys: 2
           m_fXBloomIntensity:
@@ -10120,6 +10176,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 7
             m_NumAlphaKeys: 2
           m_ambientEquatorColor:
@@ -10149,6 +10206,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 8
             m_NumAlphaKeys: 2
           m_ambientGroundColor:
@@ -10178,6 +10236,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 8
             m_NumAlphaKeys: 2
           m_chance: 0.7
@@ -10557,6 +10616,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 8
             m_NumAlphaKeys: 2
           m_fogStartDistance:
@@ -10781,6 +10841,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 5
             m_NumAlphaKeys: 2
           m_skyboxAtmosphereThickness:
@@ -10927,6 +10988,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 7
             m_NumAlphaKeys: 2
           m_sunIntensity:
@@ -11136,6 +11198,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 3
             m_NumAlphaKeys: 2
           m_fXBloomIntensity:
@@ -11283,6 +11346,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 7
             m_NumAlphaKeys: 2
           m_ambientEquatorColor:
@@ -11312,6 +11376,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 8
             m_NumAlphaKeys: 2
           m_ambientGroundColor:
@@ -11341,6 +11406,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 8
             m_NumAlphaKeys: 2
           m_chance: 0.65
@@ -11855,6 +11921,7 @@ MonoBehaviour:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 2
         m_NumAlphaKeys: 2
       TODSkyboxExposure:
@@ -11890,6 +11957,7 @@ MonoBehaviour:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 2
         m_NumAlphaKeys: 2
       TODFogColor:
@@ -11919,6 +11987,7 @@ MonoBehaviour:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 2
         m_NumAlphaKeys: 2
       TODAmbientSkyColor:
@@ -11948,6 +12017,7 @@ MonoBehaviour:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 2
         m_NumAlphaKeys: 2
       TODAmbientEquatorColor:
@@ -11977,6 +12047,7 @@ MonoBehaviour:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 2
         m_NumAlphaKeys: 2
       TODAmbientGroundColor:
@@ -12006,6 +12077,7 @@ MonoBehaviour:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 2
         m_NumAlphaKeys: 2
       TODSunIntensity:
@@ -12131,6 +12203,7 @@ MonoBehaviour:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 2
         m_NumAlphaKeys: 2
       TODHDRPFogAlbedo:
@@ -12160,6 +12233,7 @@ MonoBehaviour:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 2
         m_NumAlphaKeys: 2
       TODSunSize:
@@ -12265,6 +12339,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 2
             m_NumAlphaKeys: 2
           m_fogStartDistance:
@@ -12318,6 +12393,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 2
             m_NumAlphaKeys: 2
           m_skyboxAtmosphereThickness:
@@ -12365,6 +12441,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 2
             m_NumAlphaKeys: 2
           m_sunIntensity:
@@ -12412,6 +12489,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 2
             m_NumAlphaKeys: 2
           m_fXBloomIntensity:
@@ -12460,6 +12538,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 2
             m_NumAlphaKeys: 2
           m_ambientEquatorColor:
@@ -12489,6 +12568,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 2
             m_NumAlphaKeys: 2
           m_ambientGroundColor:
@@ -12518,6 +12598,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 2
             m_NumAlphaKeys: 2
           m_chance: 0
@@ -12627,6 +12708,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 2
             m_NumAlphaKeys: 2
           m_fogStartDistance:
@@ -12680,6 +12762,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 2
             m_NumAlphaKeys: 2
           m_skyboxAtmosphereThickness:
@@ -12727,6 +12810,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 2
             m_NumAlphaKeys: 2
           m_sunIntensity:
@@ -12774,6 +12858,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 2
             m_NumAlphaKeys: 2
           m_fXBloomIntensity:
@@ -12822,6 +12907,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 2
             m_NumAlphaKeys: 2
           m_ambientEquatorColor:
@@ -12851,6 +12937,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 2
             m_NumAlphaKeys: 2
           m_ambientGroundColor:
@@ -12880,6 +12967,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 2
             m_NumAlphaKeys: 2
           m_chance: 0
@@ -13124,6 +13212,7 @@ MonoBehaviour:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 3
         m_NumAlphaKeys: 2
       TODSkyboxExposure:
@@ -13204,6 +13293,7 @@ MonoBehaviour:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 7
         m_NumAlphaKeys: 2
       TODFogColor:
@@ -13233,6 +13323,7 @@ MonoBehaviour:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 8
         m_NumAlphaKeys: 2
       TODAmbientSkyColor:
@@ -13262,6 +13353,7 @@ MonoBehaviour:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 7
         m_NumAlphaKeys: 2
       TODAmbientEquatorColor:
@@ -13291,6 +13383,7 @@ MonoBehaviour:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 8
         m_NumAlphaKeys: 2
       TODAmbientGroundColor:
@@ -13320,6 +13413,7 @@ MonoBehaviour:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 8
         m_NumAlphaKeys: 2
       TODSunIntensity:
@@ -14228,6 +14322,7 @@ MonoBehaviour:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 7
         m_NumAlphaKeys: 2
       TODHDRPFogAlbedo:
@@ -14257,6 +14352,7 @@ MonoBehaviour:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 5
         m_NumAlphaKeys: 2
       TODSunSize:
@@ -14551,6 +14647,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 8
             m_NumAlphaKeys: 2
           m_fogStartDistance:
@@ -14775,6 +14872,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 5
             m_NumAlphaKeys: 2
           m_skyboxAtmosphereThickness:
@@ -14921,6 +15019,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 7
             m_NumAlphaKeys: 2
           m_sunIntensity:
@@ -15130,6 +15229,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 3
             m_NumAlphaKeys: 2
           m_fXBloomIntensity:
@@ -15277,6 +15377,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 7
             m_NumAlphaKeys: 2
           m_ambientEquatorColor:
@@ -15306,6 +15407,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 8
             m_NumAlphaKeys: 2
           m_ambientGroundColor:
@@ -15335,6 +15437,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 8
             m_NumAlphaKeys: 2
           m_chance: 0.7
@@ -15714,6 +15817,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 8
             m_NumAlphaKeys: 2
           m_fogStartDistance:
@@ -15938,6 +16042,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 5
             m_NumAlphaKeys: 2
           m_skyboxAtmosphereThickness:
@@ -16084,6 +16189,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 7
             m_NumAlphaKeys: 2
           m_sunIntensity:
@@ -16293,6 +16399,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 3
             m_NumAlphaKeys: 2
           m_fXBloomIntensity:
@@ -16440,6 +16547,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 7
             m_NumAlphaKeys: 2
           m_ambientEquatorColor:
@@ -16469,6 +16577,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 8
             m_NumAlphaKeys: 2
           m_ambientGroundColor:
@@ -16498,6 +16607,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 8
             m_NumAlphaKeys: 2
           m_chance: 0.65
@@ -17013,6 +17123,7 @@ MonoBehaviour:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 3
         m_NumAlphaKeys: 2
       TODSkyboxExposure:
@@ -17111,6 +17222,7 @@ MonoBehaviour:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 8
         m_NumAlphaKeys: 2
       TODFogColor:
@@ -17140,6 +17252,7 @@ MonoBehaviour:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 8
         m_NumAlphaKeys: 2
       TODAmbientSkyColor:
@@ -17169,6 +17282,7 @@ MonoBehaviour:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 8
         m_NumAlphaKeys: 2
       TODAmbientEquatorColor:
@@ -17198,6 +17312,7 @@ MonoBehaviour:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 8
         m_NumAlphaKeys: 2
       TODAmbientGroundColor:
@@ -17227,6 +17342,7 @@ MonoBehaviour:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 7
         m_NumAlphaKeys: 2
       TODSunIntensity:
@@ -18297,6 +18413,7 @@ MonoBehaviour:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 7
         m_NumAlphaKeys: 2
       TODHDRPFogAlbedo:
@@ -18326,6 +18443,7 @@ MonoBehaviour:
         atime6: 0
         atime7: 0
         m_Mode: 0
+        m_ColorSpace: -1
         m_NumColorKeys: 5
         m_NumAlphaKeys: 2
       TODSunSize:
@@ -18792,6 +18910,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 8
             m_NumAlphaKeys: 2
           m_fogStartDistance:
@@ -19016,6 +19135,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 5
             m_NumAlphaKeys: 2
           m_skyboxAtmosphereThickness:
@@ -19162,6 +19282,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 7
             m_NumAlphaKeys: 2
           m_sunIntensity:
@@ -19371,6 +19492,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 3
             m_NumAlphaKeys: 2
           m_fXBloomIntensity:
@@ -19518,6 +19640,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 7
             m_NumAlphaKeys: 2
           m_ambientEquatorColor:
@@ -19547,6 +19670,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 8
             m_NumAlphaKeys: 2
           m_ambientGroundColor:
@@ -19576,6 +19700,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 8
             m_NumAlphaKeys: 2
           m_chance: 0.7
@@ -19956,6 +20081,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 8
             m_NumAlphaKeys: 2
           m_fogStartDistance:
@@ -20180,6 +20306,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 5
             m_NumAlphaKeys: 2
           m_skyboxAtmosphereThickness:
@@ -20326,6 +20453,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 7
             m_NumAlphaKeys: 2
           m_sunIntensity:
@@ -20535,6 +20663,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 3
             m_NumAlphaKeys: 2
           m_fXBloomIntensity:
@@ -20682,6 +20811,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 7
             m_NumAlphaKeys: 2
           m_ambientEquatorColor:
@@ -20711,6 +20841,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 8
             m_NumAlphaKeys: 2
           m_ambientGroundColor:
@@ -20740,6 +20871,7 @@ MonoBehaviour:
             atime6: 0
             atime7: 0
             m_Mode: 0
+            m_ColorSpace: -1
             m_NumColorKeys: 8
             m_NumAlphaKeys: 2
           m_chance: 0.65
